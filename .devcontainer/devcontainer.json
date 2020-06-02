@@ -14,8 +14,24 @@
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
-	// "forwardPorts": [],
+	"forwardPorts": [80, 81],
 
+	"workspaceFolder": "/workspace",
+	"workspaceMount": "src=/ssd/code/NITWJavaProject,dst=/workspace,type=bind",
+
+	// [Optional] To reuse of your local HTTPS dev cert, first export it locally using this command:
+	//  * Windows PowerShell:
+	//     dotnet dev-certs https --trust; dotnet dev-certs https -ep "$env:USERPROFILE/.aspnet/https/aspnetapp.pfx" -p "SecurePwdGoesHere"
+	//  * macOS/Linux terminal:
+	//     dotnet dev-certs https --trust; dotnet dev-certs https -ep "${HOME}/.aspnet/https/aspnetapp.pfx" -p "SecurePwdGoesHere"
+	//
+	// Next, after running the command above, uncomment lines in the 'mounts' and 'remoteEnv' lines below,
+	// and open / rebuild the container so the settings take effect.
+	//
+	"mounts": [
+		// "source=${env:HOME}${env:USERPROFILE}/.aspnet/https,target=/home/vscode/.aspnet/https,type=bind"
+		"source=/ssd/code,target=/projects,type=bind"
+	],
 	// Use 'postCreateCommand' to run commands after the container is created.
 	// "postCreateCommand": "java -version",
 
