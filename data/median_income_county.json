@@ -1,0 +1,5030 @@
+[
+  {
+    "CountyName": "Baldwin County, Alabama",
+    "AverageIncome": 27772,
+    "StateId": "01",
+    "CountyId": "003"
+  },
+  {
+    "CountyName": "Calhoun County, Alabama",
+    "AverageIncome": 22154,
+    "StateId": "01",
+    "CountyId": "015"
+  },
+  {
+    "CountyName": "Cullman County, Alabama",
+    "AverageIncome": 23615,
+    "StateId": "01",
+    "CountyId": "043"
+  },
+  {
+    "CountyName": "DeKalb County, Alabama",
+    "AverageIncome": 22130,
+    "StateId": "01",
+    "CountyId": "049"
+  },
+  {
+    "CountyName": "Elmore County, Alabama",
+    "AverageIncome": 27093,
+    "StateId": "01",
+    "CountyId": "051"
+  },
+  {
+    "CountyName": "Etowah County, Alabama",
+    "AverageIncome": 25055,
+    "StateId": "01",
+    "CountyId": "055"
+  },
+  {
+    "CountyName": "Houston County, Alabama",
+    "AverageIncome": 24821,
+    "StateId": "01",
+    "CountyId": "069"
+  },
+  {
+    "CountyName": "Jefferson County, Alabama",
+    "AverageIncome": 29904,
+    "StateId": "01",
+    "CountyId": "073"
+  },
+  {
+    "CountyName": "Lauderdale County, Alabama",
+    "AverageIncome": 26988,
+    "StateId": "01",
+    "CountyId": "077"
+  },
+  {
+    "CountyName": "Lee County, Alabama",
+    "AverageIncome": 25572,
+    "StateId": "01",
+    "CountyId": "081"
+  },
+  {
+    "CountyName": "Limestone County, Alabama",
+    "AverageIncome": 27374,
+    "StateId": "01",
+    "CountyId": "083"
+  },
+  {
+    "CountyName": "Madison County, Alabama",
+    "AverageIncome": 31970,
+    "StateId": "01",
+    "CountyId": "089"
+  },
+  {
+    "CountyName": "Marshall County, Alabama",
+    "AverageIncome": 24012,
+    "StateId": "01",
+    "CountyId": "095"
+  },
+  {
+    "CountyName": "Mobile County, Alabama",
+    "AverageIncome": 25256,
+    "StateId": "01",
+    "CountyId": "097"
+  },
+  {
+    "CountyName": "Montgomery County, Alabama",
+    "AverageIncome": 25172,
+    "StateId": "01",
+    "CountyId": "101"
+  },
+  {
+    "CountyName": "Morgan County, Alabama",
+    "AverageIncome": 27866,
+    "StateId": "01",
+    "CountyId": "103"
+  },
+  {
+    "CountyName": "St. Clair County, Alabama",
+    "AverageIncome": 27129,
+    "StateId": "01",
+    "CountyId": "115"
+  },
+  {
+    "CountyName": "Shelby County, Alabama",
+    "AverageIncome": 36244,
+    "StateId": "01",
+    "CountyId": "117"
+  },
+  {
+    "CountyName": "Talladega County, Alabama",
+    "AverageIncome": 21226,
+    "StateId": "01",
+    "CountyId": "121"
+  },
+  {
+    "CountyName": "Tuscaloosa County, Alabama",
+    "AverageIncome": 25536,
+    "StateId": "01",
+    "CountyId": "125"
+  },
+  {
+    "CountyName": "Walker County, Alabama",
+    "AverageIncome": 23874,
+    "StateId": "01",
+    "CountyId": "127"
+  },
+  {
+    "CountyName": "Anchorage Municipality, Alaska",
+    "AverageIncome": 36966,
+    "StateId": "02",
+    "CountyId": "020"
+  },
+  {
+    "CountyName": "Fairbanks North Star Borough, Alaska",
+    "AverageIncome": 35294,
+    "StateId": "02",
+    "CountyId": "090"
+  },
+  {
+    "CountyName": "Matanuska-Susitna Borough, Alaska",
+    "AverageIncome": 29297,
+    "StateId": "02",
+    "CountyId": "170"
+  },
+  {
+    "CountyName": "Apache County, Arizona",
+    "AverageIncome": 20695,
+    "StateId": "04",
+    "CountyId": "001"
+  },
+  {
+    "CountyName": "Cochise County, Arizona",
+    "AverageIncome": 24579,
+    "StateId": "04",
+    "CountyId": "003"
+  },
+  {
+    "CountyName": "Coconino County, Arizona",
+    "AverageIncome": 25442,
+    "StateId": "04",
+    "CountyId": "005"
+  },
+  {
+    "CountyName": "Maricopa County, Arizona",
+    "AverageIncome": 32123,
+    "StateId": "04",
+    "CountyId": "013"
+  },
+  {
+    "CountyName": "Mohave County, Arizona",
+    "AverageIncome": 23492,
+    "StateId": "04",
+    "CountyId": "015"
+  },
+  {
+    "CountyName": "Navajo County, Arizona",
+    "AverageIncome": 20573,
+    "StateId": "04",
+    "CountyId": "017"
+  },
+  {
+    "CountyName": "Pima County, Arizona",
+    "AverageIncome": 27521,
+    "StateId": "04",
+    "CountyId": "019"
+  },
+  {
+    "CountyName": "Pinal County, Arizona",
+    "AverageIncome": 28279,
+    "StateId": "04",
+    "CountyId": "021"
+  },
+  {
+    "CountyName": "Yavapai County, Arizona",
+    "AverageIncome": 25711,
+    "StateId": "04",
+    "CountyId": "025"
+  },
+  {
+    "CountyName": "Yuma County, Arizona",
+    "AverageIncome": 23737,
+    "StateId": "04",
+    "CountyId": "027"
+  },
+  {
+    "CountyName": "Benton County, Arkansas",
+    "AverageIncome": 33484,
+    "StateId": "05",
+    "CountyId": "007"
+  },
+  {
+    "CountyName": "Craighead County, Arkansas",
+    "AverageIncome": 24452,
+    "StateId": "05",
+    "CountyId": "031"
+  },
+  {
+    "CountyName": "Faulkner County, Arkansas",
+    "AverageIncome": 27307,
+    "StateId": "05",
+    "CountyId": "045"
+  },
+  {
+    "CountyName": "Garland County, Arkansas",
+    "AverageIncome": 24804,
+    "StateId": "05",
+    "CountyId": "051"
+  },
+  {
+    "CountyName": "Jefferson County, Arkansas",
+    "AverageIncome": 23445,
+    "StateId": "05",
+    "CountyId": "069"
+  },
+  {
+    "CountyName": "Lonoke County, Arkansas",
+    "AverageIncome": 30381,
+    "StateId": "05",
+    "CountyId": "085"
+  },
+  {
+    "CountyName": "Pulaski County, Arkansas",
+    "AverageIncome": 30108,
+    "StateId": "05",
+    "CountyId": "119"
+  },
+  {
+    "CountyName": "Saline County, Arkansas",
+    "AverageIncome": 31339,
+    "StateId": "05",
+    "CountyId": "125"
+  },
+  {
+    "CountyName": "Sebastian County, Arkansas",
+    "AverageIncome": 25444,
+    "StateId": "05",
+    "CountyId": "131"
+  },
+  {
+    "CountyName": "Washington County, Arkansas",
+    "AverageIncome": 28115,
+    "StateId": "05",
+    "CountyId": "143"
+  },
+  {
+    "CountyName": "White County, Arkansas",
+    "AverageIncome": 22719,
+    "StateId": "05",
+    "CountyId": "145"
+  },
+  {
+    "CountyName": "Alameda County, California",
+    "AverageIncome": 46125,
+    "StateId": "06",
+    "CountyId": "001"
+  },
+  {
+    "CountyName": "Butte County, California",
+    "AverageIncome": 24872,
+    "StateId": "06",
+    "CountyId": "007"
+  },
+  {
+    "CountyName": "Contra Costa County, California",
+    "AverageIncome": 41808,
+    "StateId": "06",
+    "CountyId": "013"
+  },
+  {
+    "CountyName": "El Dorado County, California",
+    "AverageIncome": 37249,
+    "StateId": "06",
+    "CountyId": "017"
+  },
+  {
+    "CountyName": "Fresno County, California",
+    "AverageIncome": 25211,
+    "StateId": "06",
+    "CountyId": "019"
+  },
+  {
+    "CountyName": "Humboldt County, California",
+    "AverageIncome": 23963,
+    "StateId": "06",
+    "CountyId": "023"
+  },
+  {
+    "CountyName": "Imperial County, California",
+    "AverageIncome": 18731,
+    "StateId": "06",
+    "CountyId": "025"
+  },
+  {
+    "CountyName": "Kern County, California",
+    "AverageIncome": 24850,
+    "StateId": "06",
+    "CountyId": "029"
+  },
+  {
+    "CountyName": "Kings County, California",
+    "AverageIncome": 27069,
+    "StateId": "06",
+    "CountyId": "031"
+  },
+  {
+    "CountyName": "Lake County, California",
+    "AverageIncome": 27650,
+    "StateId": "06",
+    "CountyId": "033"
+  },
+  {
+    "CountyName": "Los Angeles County, California",
+    "AverageIncome": 30041,
+    "StateId": "06",
+    "CountyId": "037"
+  },
+  {
+    "CountyName": "Madera County, California",
+    "AverageIncome": 23434,
+    "StateId": "06",
+    "CountyId": "039"
+  },
+  {
+    "CountyName": "Marin County, California",
+    "AverageIncome": 57224,
+    "StateId": "06",
+    "CountyId": "041"
+  },
+  {
+    "CountyName": "Mendocino County, California",
+    "AverageIncome": 26575,
+    "StateId": "06",
+    "CountyId": "045"
+  },
+  {
+    "CountyName": "Merced County, California",
+    "AverageIncome": 25596,
+    "StateId": "06",
+    "CountyId": "047"
+  },
+  {
+    "CountyName": "Monterey County, California",
+    "AverageIncome": 28746,
+    "StateId": "06",
+    "CountyId": "053"
+  },
+  {
+    "CountyName": "Napa County, California",
+    "AverageIncome": 36289,
+    "StateId": "06",
+    "CountyId": "055"
+  },
+  {
+    "CountyName": "Nevada County, California",
+    "AverageIncome": 33906,
+    "StateId": "06",
+    "CountyId": "057"
+  },
+  {
+    "CountyName": "Orange County, California",
+    "AverageIncome": 36405,
+    "StateId": "06",
+    "CountyId": "059"
+  },
+  {
+    "CountyName": "Placer County, California",
+    "AverageIncome": 40332,
+    "StateId": "06",
+    "CountyId": "061"
+  },
+  {
+    "CountyName": "Riverside County, California",
+    "AverageIncome": 28403,
+    "StateId": "06",
+    "CountyId": "065"
+  },
+  {
+    "CountyName": "Sacramento County, California",
+    "AverageIncome": 32357,
+    "StateId": "06",
+    "CountyId": "067"
+  },
+  {
+    "CountyName": "San Bernardino County, California",
+    "AverageIncome": 27758,
+    "StateId": "06",
+    "CountyId": "071"
+  },
+  {
+    "CountyName": "San Diego County, California",
+    "AverageIncome": 34238,
+    "StateId": "06",
+    "CountyId": "073"
+  },
+  {
+    "CountyName": "San Francisco County, California",
+    "AverageIncome": 53266,
+    "StateId": "06",
+    "CountyId": "075"
+  },
+  {
+    "CountyName": "San Joaquin County, California",
+    "AverageIncome": 29768,
+    "StateId": "06",
+    "CountyId": "077"
+  },
+  {
+    "CountyName": "San Luis Obispo County, California",
+    "AverageIncome": 32089,
+    "StateId": "06",
+    "CountyId": "079"
+  },
+  {
+    "CountyName": "San Mateo County, California",
+    "AverageIncome": 50608,
+    "StateId": "06",
+    "CountyId": "081"
+  },
+  {
+    "CountyName": "Santa Barbara County, California",
+    "AverageIncome": 29344,
+    "StateId": "06",
+    "CountyId": "083"
+  },
+  {
+    "CountyName": "Santa Clara County, California",
+    "AverageIncome": 49398,
+    "StateId": "06",
+    "CountyId": "085"
+  },
+  {
+    "CountyName": "Santa Cruz County, California",
+    "AverageIncome": 32252,
+    "StateId": "06",
+    "CountyId": "087"
+  },
+  {
+    "CountyName": "Shasta County, California",
+    "AverageIncome": 26609,
+    "StateId": "06",
+    "CountyId": "089"
+  },
+  {
+    "CountyName": "Solano County, California",
+    "AverageIncome": 38942,
+    "StateId": "06",
+    "CountyId": "095"
+  },
+  {
+    "CountyName": "Sonoma County, California",
+    "AverageIncome": 35380,
+    "StateId": "06",
+    "CountyId": "097"
+  },
+  {
+    "CountyName": "Stanislaus County, California",
+    "AverageIncome": 27991,
+    "StateId": "06",
+    "CountyId": "099"
+  },
+  {
+    "CountyName": "Sutter County, California",
+    "AverageIncome": 27172,
+    "StateId": "06",
+    "CountyId": "101"
+  },
+  {
+    "CountyName": "Tulare County, California",
+    "AverageIncome": 22649,
+    "StateId": "06",
+    "CountyId": "107"
+  },
+  {
+    "CountyName": "Ventura County, California",
+    "AverageIncome": 33782,
+    "StateId": "06",
+    "CountyId": "111"
+  },
+  {
+    "CountyName": "Yolo County, California",
+    "AverageIncome": 28467,
+    "StateId": "06",
+    "CountyId": "113"
+  },
+  {
+    "CountyName": "Yuba County, California",
+    "AverageIncome": 25819,
+    "StateId": "06",
+    "CountyId": "115"
+  },
+  {
+    "CountyName": "Adams County, Colorado",
+    "AverageIncome": 34414,
+    "StateId": "08",
+    "CountyId": "001"
+  },
+  {
+    "CountyName": "Arapahoe County, Colorado",
+    "AverageIncome": 37278,
+    "StateId": "08",
+    "CountyId": "005"
+  },
+  {
+    "CountyName": "Boulder County, Colorado",
+    "AverageIncome": 37172,
+    "StateId": "08",
+    "CountyId": "013"
+  },
+  {
+    "CountyName": "Broomfield County, Colorado",
+    "AverageIncome": 47340,
+    "StateId": "08",
+    "CountyId": "014"
+  },
+  {
+    "CountyName": "Denver County, Colorado",
+    "AverageIncome": 40627,
+    "StateId": "08",
+    "CountyId": "031"
+  },
+  {
+    "CountyName": "Douglas County, Colorado",
+    "AverageIncome": 51640,
+    "StateId": "08",
+    "CountyId": "035"
+  },
+  {
+    "CountyName": "El Paso County, Colorado",
+    "AverageIncome": 32171,
+    "StateId": "08",
+    "CountyId": "041"
+  },
+  {
+    "CountyName": "Jefferson County, Colorado",
+    "AverageIncome": 41654,
+    "StateId": "08",
+    "CountyId": "059"
+  },
+  {
+    "CountyName": "Larimer County, Colorado",
+    "AverageIncome": 34592,
+    "StateId": "08",
+    "CountyId": "069"
+  },
+  {
+    "CountyName": "Mesa County, Colorado",
+    "AverageIncome": 29752,
+    "StateId": "08",
+    "CountyId": "077"
+  },
+  {
+    "CountyName": "Pueblo County, Colorado",
+    "AverageIncome": 25220,
+    "StateId": "08",
+    "CountyId": "101"
+  },
+  {
+    "CountyName": "Weld County, Colorado",
+    "AverageIncome": 32827,
+    "StateId": "08",
+    "CountyId": "123"
+  },
+  {
+    "CountyName": "Fairfield County, Connecticut",
+    "AverageIncome": 40247,
+    "StateId": "09",
+    "CountyId": "001"
+  },
+  {
+    "CountyName": "Hartford County, Connecticut",
+    "AverageIncome": 36746,
+    "StateId": "09",
+    "CountyId": "003"
+  },
+  {
+    "CountyName": "Litchfield County, Connecticut",
+    "AverageIncome": 37401,
+    "StateId": "09",
+    "CountyId": "005"
+  },
+  {
+    "CountyName": "Middlesex County, Connecticut",
+    "AverageIncome": 44619,
+    "StateId": "09",
+    "CountyId": "007"
+  },
+  {
+    "CountyName": "New Haven County, Connecticut",
+    "AverageIncome": 34382,
+    "StateId": "09",
+    "CountyId": "009"
+  },
+  {
+    "CountyName": "New London County, Connecticut",
+    "AverageIncome": 34320,
+    "StateId": "09",
+    "CountyId": "011"
+  },
+  {
+    "CountyName": "Tolland County, Connecticut",
+    "AverageIncome": 40103,
+    "StateId": "09",
+    "CountyId": "013"
+  },
+  {
+    "CountyName": "Windham County, Connecticut",
+    "AverageIncome": 30633,
+    "StateId": "09",
+    "CountyId": "015"
+  },
+  {
+    "CountyName": "Kent County, Delaware",
+    "AverageIncome": 27657,
+    "StateId": "10",
+    "CountyId": "001"
+  },
+  {
+    "CountyName": "New Castle County, Delaware",
+    "AverageIncome": 34821,
+    "StateId": "10",
+    "CountyId": "003"
+  },
+  {
+    "CountyName": "Sussex County, Delaware",
+    "AverageIncome": 30501,
+    "StateId": "10",
+    "CountyId": "005"
+  },
+  {
+    "CountyName": "District of Columbia, District of Columbia",
+    "AverageIncome": 50978,
+    "StateId": "11",
+    "CountyId": "001"
+  },
+  {
+    "CountyName": "Alachua County, Florida",
+    "AverageIncome": 25890,
+    "StateId": "12",
+    "CountyId": "001"
+  },
+  {
+    "CountyName": "Bay County, Florida",
+    "AverageIncome": 27386,
+    "StateId": "12",
+    "CountyId": "005"
+  },
+  {
+    "CountyName": "Brevard County, Florida",
+    "AverageIncome": 27857,
+    "StateId": "12",
+    "CountyId": "009"
+  },
+  {
+    "CountyName": "Broward County, Florida",
+    "AverageIncome": 30072,
+    "StateId": "12",
+    "CountyId": "011"
+  },
+  {
+    "CountyName": "Charlotte County, Florida",
+    "AverageIncome": 24429,
+    "StateId": "12",
+    "CountyId": "015"
+  },
+  {
+    "CountyName": "Citrus County, Florida",
+    "AverageIncome": 23476,
+    "StateId": "12",
+    "CountyId": "017"
+  },
+  {
+    "CountyName": "Clay County, Florida",
+    "AverageIncome": 31028,
+    "StateId": "12",
+    "CountyId": "019"
+  },
+  {
+    "CountyName": "Collier County, Florida",
+    "AverageIncome": 31485,
+    "StateId": "12",
+    "CountyId": "021"
+  },
+  {
+    "CountyName": "Columbia County, Florida",
+    "AverageIncome": 25893,
+    "StateId": "12",
+    "CountyId": "023"
+  },
+  {
+    "CountyName": "Duval County, Florida",
+    "AverageIncome": 30094,
+    "StateId": "12",
+    "CountyId": "031"
+  },
+  {
+    "CountyName": "Escambia County, Florida",
+    "AverageIncome": 27117,
+    "StateId": "12",
+    "CountyId": "033"
+  },
+  {
+    "CountyName": "Flagler County, Florida",
+    "AverageIncome": 27792,
+    "StateId": "12",
+    "CountyId": "035"
+  },
+  {
+    "CountyName": "Hernando County, Florida",
+    "AverageIncome": 24097,
+    "StateId": "12",
+    "CountyId": "053"
+  },
+  {
+    "CountyName": "Highlands County, Florida",
+    "AverageIncome": 22193,
+    "StateId": "12",
+    "CountyId": "055"
+  },
+  {
+    "CountyName": "Hillsborough County, Florida",
+    "AverageIncome": 30580,
+    "StateId": "12",
+    "CountyId": "057"
+  },
+  {
+    "CountyName": "Indian River County, Florida",
+    "AverageIncome": 26174,
+    "StateId": "12",
+    "CountyId": "061"
+  },
+  {
+    "CountyName": "Lake County, Florida",
+    "AverageIncome": 26632,
+    "StateId": "12",
+    "CountyId": "069"
+  },
+  {
+    "CountyName": "Lee County, Florida",
+    "AverageIncome": 27889,
+    "StateId": "12",
+    "CountyId": "071"
+  },
+  {
+    "CountyName": "Leon County, Florida",
+    "AverageIncome": 26090,
+    "StateId": "12",
+    "CountyId": "073"
+  },
+  {
+    "CountyName": "Manatee County, Florida",
+    "AverageIncome": 30001,
+    "StateId": "12",
+    "CountyId": "081"
+  },
+  {
+    "CountyName": "Marion County, Florida",
+    "AverageIncome": 23628,
+    "StateId": "12",
+    "CountyId": "083"
+  },
+  {
+    "CountyName": "Martin County, Florida",
+    "AverageIncome": 31524,
+    "StateId": "12",
+    "CountyId": "085"
+  },
+  {
+    "CountyName": "Miami-Dade County, Florida",
+    "AverageIncome": 25035,
+    "StateId": "12",
+    "CountyId": "086"
+  },
+  {
+    "CountyName": "Monroe County, Florida",
+    "AverageIncome": 34293,
+    "StateId": "12",
+    "CountyId": "087"
+  },
+  {
+    "CountyName": "Nassau County, Florida",
+    "AverageIncome": 28841,
+    "StateId": "12",
+    "CountyId": "089"
+  },
+  {
+    "CountyName": "Okaloosa County, Florida",
+    "AverageIncome": 30362,
+    "StateId": "12",
+    "CountyId": "091"
+  },
+  {
+    "CountyName": "Orange County, Florida",
+    "AverageIncome": 27208,
+    "StateId": "12",
+    "CountyId": "095"
+  },
+  {
+    "CountyName": "Osceola County, Florida",
+    "AverageIncome": 22453,
+    "StateId": "12",
+    "CountyId": "097"
+  },
+  {
+    "CountyName": "Palm Beach County, Florida",
+    "AverageIncome": 30247,
+    "StateId": "12",
+    "CountyId": "099"
+  },
+  {
+    "CountyName": "Pasco County, Florida",
+    "AverageIncome": 27488,
+    "StateId": "12",
+    "CountyId": "101"
+  },
+  {
+    "CountyName": "Pinellas County, Florida",
+    "AverageIncome": 29774,
+    "StateId": "12",
+    "CountyId": "103"
+  },
+  {
+    "CountyName": "Polk County, Florida",
+    "AverageIncome": 25816,
+    "StateId": "12",
+    "CountyId": "105"
+  },
+  {
+    "CountyName": "Putnam County, Florida",
+    "AverageIncome": 21059,
+    "StateId": "12",
+    "CountyId": "107"
+  },
+  {
+    "CountyName": "St. Johns County, Florida",
+    "AverageIncome": 34703,
+    "StateId": "12",
+    "CountyId": "109"
+  },
+  {
+    "CountyName": "St. Lucie County, Florida",
+    "AverageIncome": 27091,
+    "StateId": "12",
+    "CountyId": "111"
+  },
+  {
+    "CountyName": "Santa Rosa County, Florida",
+    "AverageIncome": 32424,
+    "StateId": "12",
+    "CountyId": "113"
+  },
+  {
+    "CountyName": "Sarasota County, Florida",
+    "AverageIncome": 30662,
+    "StateId": "12",
+    "CountyId": "115"
+  },
+  {
+    "CountyName": "Seminole County, Florida",
+    "AverageIncome": 33143,
+    "StateId": "12",
+    "CountyId": "117"
+  },
+  {
+    "CountyName": "Sumter County, Florida",
+    "AverageIncome": 27373,
+    "StateId": "12",
+    "CountyId": "119"
+  },
+  {
+    "CountyName": "Volusia County, Florida",
+    "AverageIncome": 27610,
+    "StateId": "12",
+    "CountyId": "127"
+  },
+  {
+    "CountyName": "Walton County, Florida",
+    "AverageIncome": 29084,
+    "StateId": "12",
+    "CountyId": "131"
+  },
+  {
+    "CountyName": "Barrow County, Georgia",
+    "AverageIncome": 28729,
+    "StateId": "13",
+    "CountyId": "013"
+  },
+  {
+    "CountyName": "Bartow County, Georgia",
+    "AverageIncome": 27791,
+    "StateId": "13",
+    "CountyId": "015"
+  },
+  {
+    "CountyName": "Bibb County, Georgia",
+    "AverageIncome": 24050,
+    "StateId": "13",
+    "CountyId": "021"
+  },
+  {
+    "CountyName": "Bulloch County, Georgia",
+    "AverageIncome": 21337,
+    "StateId": "13",
+    "CountyId": "031"
+  },
+  {
+    "CountyName": "Carroll County, Georgia",
+    "AverageIncome": 25377,
+    "StateId": "13",
+    "CountyId": "045"
+  },
+  {
+    "CountyName": "Catoosa County, Georgia",
+    "AverageIncome": 28487,
+    "StateId": "13",
+    "CountyId": "047"
+  },
+  {
+    "CountyName": "Chatham County, Georgia",
+    "AverageIncome": 28547,
+    "StateId": "13",
+    "CountyId": "051"
+  },
+  {
+    "CountyName": "Cherokee County, Georgia",
+    "AverageIncome": 35437,
+    "StateId": "13",
+    "CountyId": "057"
+  },
+  {
+    "CountyName": "Clarke County, Georgia",
+    "AverageIncome": 19472,
+    "StateId": "13",
+    "CountyId": "059"
+  },
+  {
+    "CountyName": "Clayton County, Georgia",
+    "AverageIncome": 25560,
+    "StateId": "13",
+    "CountyId": "063"
+  },
+  {
+    "CountyName": "Cobb County, Georgia",
+    "AverageIncome": 39363,
+    "StateId": "13",
+    "CountyId": "067"
+  },
+  {
+    "CountyName": "Columbia County, Georgia",
+    "AverageIncome": 34003,
+    "StateId": "13",
+    "CountyId": "073"
+  },
+  {
+    "CountyName": "Coweta County, Georgia",
+    "AverageIncome": 31201,
+    "StateId": "13",
+    "CountyId": "077"
+  },
+  {
+    "CountyName": "DeKalb County, Georgia",
+    "AverageIncome": 34209,
+    "StateId": "13",
+    "CountyId": "089"
+  },
+  {
+    "CountyName": "Dougherty County, Georgia",
+    "AverageIncome": 21438,
+    "StateId": "13",
+    "CountyId": "095"
+  },
+  {
+    "CountyName": "Douglas County, Georgia",
+    "AverageIncome": 31405,
+    "StateId": "13",
+    "CountyId": "097"
+  },
+  {
+    "CountyName": "Fayette County, Georgia",
+    "AverageIncome": 38981,
+    "StateId": "13",
+    "CountyId": "113"
+  },
+  {
+    "CountyName": "Floyd County, Georgia",
+    "AverageIncome": 23627,
+    "StateId": "13",
+    "CountyId": "115"
+  },
+  {
+    "CountyName": "Forsyth County, Georgia",
+    "AverageIncome": 45932,
+    "StateId": "13",
+    "CountyId": "117"
+  },
+  {
+    "CountyName": "Fulton County, Georgia",
+    "AverageIncome": 38206,
+    "StateId": "13",
+    "CountyId": "121"
+  },
+  {
+    "CountyName": "Glynn County, Georgia",
+    "AverageIncome": 26500,
+    "StateId": "13",
+    "CountyId": "127"
+  },
+  {
+    "CountyName": "Gwinnett County, Georgia",
+    "AverageIncome": 32467,
+    "StateId": "13",
+    "CountyId": "135"
+  },
+  {
+    "CountyName": "Hall County, Georgia",
+    "AverageIncome": 28870,
+    "StateId": "13",
+    "CountyId": "139"
+  },
+  {
+    "CountyName": "Henry County, Georgia",
+    "AverageIncome": 34252,
+    "StateId": "13",
+    "CountyId": "151"
+  },
+  {
+    "CountyName": "Houston County, Georgia",
+    "AverageIncome": 32409,
+    "StateId": "13",
+    "CountyId": "153"
+  },
+  {
+    "CountyName": "Jackson County, Georgia",
+    "AverageIncome": 31260,
+    "StateId": "13",
+    "CountyId": "157"
+  },
+  {
+    "CountyName": "Lowndes County, Georgia",
+    "AverageIncome": 24983,
+    "StateId": "13",
+    "CountyId": "185"
+  },
+  {
+    "CountyName": "Muscogee County, Georgia",
+    "AverageIncome": 25833,
+    "StateId": "13",
+    "CountyId": "215"
+  },
+  {
+    "CountyName": "Newton County, Georgia",
+    "AverageIncome": 28037,
+    "StateId": "13",
+    "CountyId": "217"
+  },
+  {
+    "CountyName": "Paulding County, Georgia",
+    "AverageIncome": 35327,
+    "StateId": "13",
+    "CountyId": "223"
+  },
+  {
+    "CountyName": "Richmond County, Georgia",
+    "AverageIncome": 22347,
+    "StateId": "13",
+    "CountyId": "245"
+  },
+  {
+    "CountyName": "Rockdale County, Georgia",
+    "AverageIncome": 31150,
+    "StateId": "13",
+    "CountyId": "247"
+  },
+  {
+    "CountyName": "Spalding County, Georgia",
+    "AverageIncome": 25299,
+    "StateId": "13",
+    "CountyId": "255"
+  },
+  {
+    "CountyName": "Troup County, Georgia",
+    "AverageIncome": 25276,
+    "StateId": "13",
+    "CountyId": "285"
+  },
+  {
+    "CountyName": "Walker County, Georgia",
+    "AverageIncome": 22457,
+    "StateId": "13",
+    "CountyId": "295"
+  },
+  {
+    "CountyName": "Walton County, Georgia",
+    "AverageIncome": 30859,
+    "StateId": "13",
+    "CountyId": "297"
+  },
+  {
+    "CountyName": "Whitfield County, Georgia",
+    "AverageIncome": 25980,
+    "StateId": "13",
+    "CountyId": "313"
+  },
+  {
+    "CountyName": "Hawaii County, Hawaii",
+    "AverageIncome": 29602,
+    "StateId": "15",
+    "CountyId": "001"
+  },
+  {
+    "CountyName": "Honolulu County, Hawaii",
+    "AverageIncome": 36007,
+    "StateId": "15",
+    "CountyId": "003"
+  },
+  {
+    "CountyName": "Kauai County, Hawaii",
+    "AverageIncome": 32116,
+    "StateId": "15",
+    "CountyId": "007"
+  },
+  {
+    "CountyName": "Maui County, Hawaii",
+    "AverageIncome": 32283,
+    "StateId": "15",
+    "CountyId": "009"
+  },
+  {
+    "CountyName": "Ada County, Idaho",
+    "AverageIncome": 33221,
+    "StateId": "16",
+    "CountyId": "001"
+  },
+  {
+    "CountyName": "Bannock County, Idaho",
+    "AverageIncome": 25035,
+    "StateId": "16",
+    "CountyId": "005"
+  },
+  {
+    "CountyName": "Bonneville County, Idaho",
+    "AverageIncome": 26898,
+    "StateId": "16",
+    "CountyId": "019"
+  },
+  {
+    "CountyName": "Canyon County, Idaho",
+    "AverageIncome": 25292,
+    "StateId": "16",
+    "CountyId": "027"
+  },
+  {
+    "CountyName": "Kootenai County, Idaho",
+    "AverageIncome": 28344,
+    "StateId": "16",
+    "CountyId": "055"
+  },
+  {
+    "CountyName": "Twin Falls County, Idaho",
+    "AverageIncome": 27255,
+    "StateId": "16",
+    "CountyId": "083"
+  },
+  {
+    "CountyName": "Adams County, Illinois",
+    "AverageIncome": 30889,
+    "StateId": "17",
+    "CountyId": "001"
+  },
+  {
+    "CountyName": "Champaign County, Illinois",
+    "AverageIncome": 28424,
+    "StateId": "17",
+    "CountyId": "019"
+  },
+  {
+    "CountyName": "Cook County, Illinois",
+    "AverageIncome": 33623,
+    "StateId": "17",
+    "CountyId": "031"
+  },
+  {
+    "CountyName": "DeKalb County, Illinois",
+    "AverageIncome": 29825,
+    "StateId": "17",
+    "CountyId": "037"
+  },
+  {
+    "CountyName": "DuPage County, Illinois",
+    "AverageIncome": 41534,
+    "StateId": "17",
+    "CountyId": "043"
+  },
+  {
+    "CountyName": "Kane County, Illinois",
+    "AverageIncome": 33912,
+    "StateId": "17",
+    "CountyId": "089"
+  },
+  {
+    "CountyName": "Kankakee County, Illinois",
+    "AverageIncome": 25615,
+    "StateId": "17",
+    "CountyId": "091"
+  },
+  {
+    "CountyName": "Kendall County, Illinois",
+    "AverageIncome": 41162,
+    "StateId": "17",
+    "CountyId": "093"
+  },
+  {
+    "CountyName": "Lake County, Illinois",
+    "AverageIncome": 36706,
+    "StateId": "17",
+    "CountyId": "097"
+  },
+  {
+    "CountyName": "LaSalle County, Illinois",
+    "AverageIncome": 27580,
+    "StateId": "17",
+    "CountyId": "099"
+  },
+  {
+    "CountyName": "McHenry County, Illinois",
+    "AverageIncome": 38763,
+    "StateId": "17",
+    "CountyId": "111"
+  },
+  {
+    "CountyName": "McLean County, Illinois",
+    "AverageIncome": 33192,
+    "StateId": "17",
+    "CountyId": "113"
+  },
+  {
+    "CountyName": "Macon County, Illinois",
+    "AverageIncome": 27728,
+    "StateId": "17",
+    "CountyId": "115"
+  },
+  {
+    "CountyName": "Madison County, Illinois",
+    "AverageIncome": 30736,
+    "StateId": "17",
+    "CountyId": "119"
+  },
+  {
+    "CountyName": "Peoria County, Illinois",
+    "AverageIncome": 30097,
+    "StateId": "17",
+    "CountyId": "143"
+  },
+  {
+    "CountyName": "Rock Island County, Illinois",
+    "AverageIncome": 30455,
+    "StateId": "17",
+    "CountyId": "161"
+  },
+  {
+    "CountyName": "St. Clair County, Illinois",
+    "AverageIncome": 31853,
+    "StateId": "17",
+    "CountyId": "163"
+  },
+  {
+    "CountyName": "Sangamon County, Illinois",
+    "AverageIncome": 33799,
+    "StateId": "17",
+    "CountyId": "167"
+  },
+  {
+    "CountyName": "Tazewell County, Illinois",
+    "AverageIncome": 32116,
+    "StateId": "17",
+    "CountyId": "179"
+  },
+  {
+    "CountyName": "Vermilion County, Illinois",
+    "AverageIncome": 25321,
+    "StateId": "17",
+    "CountyId": "183"
+  },
+  {
+    "CountyName": "Will County, Illinois",
+    "AverageIncome": 36546,
+    "StateId": "17",
+    "CountyId": "197"
+  },
+  {
+    "CountyName": "Williamson County, Illinois",
+    "AverageIncome": 23798,
+    "StateId": "17",
+    "CountyId": "199"
+  },
+  {
+    "CountyName": "Winnebago County, Illinois",
+    "AverageIncome": 28430,
+    "StateId": "17",
+    "CountyId": "201"
+  },
+  {
+    "CountyName": "Allen County, Indiana",
+    "AverageIncome": 29741,
+    "StateId": "18",
+    "CountyId": "003"
+  },
+  {
+    "CountyName": "Bartholomew County, Indiana",
+    "AverageIncome": 31481,
+    "StateId": "18",
+    "CountyId": "005"
+  },
+  {
+    "CountyName": "Boone County, Indiana",
+    "AverageIncome": 40336,
+    "StateId": "18",
+    "CountyId": "011"
+  },
+  {
+    "CountyName": "Clark County, Indiana",
+    "AverageIncome": 31995,
+    "StateId": "18",
+    "CountyId": "019"
+  },
+  {
+    "CountyName": "Delaware County, Indiana",
+    "AverageIncome": 22493,
+    "StateId": "18",
+    "CountyId": "035"
+  },
+  {
+    "CountyName": "Elkhart County, Indiana",
+    "AverageIncome": 29923,
+    "StateId": "18",
+    "CountyId": "039"
+  },
+  {
+    "CountyName": "Floyd County, Indiana",
+    "AverageIncome": 35468,
+    "StateId": "18",
+    "CountyId": "043"
+  },
+  {
+    "CountyName": "Grant County, Indiana",
+    "AverageIncome": 22204,
+    "StateId": "18",
+    "CountyId": "053"
+  },
+  {
+    "CountyName": "Hamilton County, Indiana",
+    "AverageIncome": 45407,
+    "StateId": "18",
+    "CountyId": "057"
+  },
+  {
+    "CountyName": "Hancock County, Indiana",
+    "AverageIncome": 36097,
+    "StateId": "18",
+    "CountyId": "059"
+  },
+  {
+    "CountyName": "Hendricks County, Indiana",
+    "AverageIncome": 37331,
+    "StateId": "18",
+    "CountyId": "063"
+  },
+  {
+    "CountyName": "Howard County, Indiana",
+    "AverageIncome": 30864,
+    "StateId": "18",
+    "CountyId": "067"
+  },
+  {
+    "CountyName": "Johnson County, Indiana",
+    "AverageIncome": 34292,
+    "StateId": "18",
+    "CountyId": "081"
+  },
+  {
+    "CountyName": "Kosciusko County, Indiana",
+    "AverageIncome": 30236,
+    "StateId": "18",
+    "CountyId": "085"
+  },
+  {
+    "CountyName": "Lake County, Indiana",
+    "AverageIncome": 30318,
+    "StateId": "18",
+    "CountyId": "089"
+  },
+  {
+    "CountyName": "LaPorte County, Indiana",
+    "AverageIncome": 26513,
+    "StateId": "18",
+    "CountyId": "091"
+  },
+  {
+    "CountyName": "Madison County, Indiana",
+    "AverageIncome": 26094,
+    "StateId": "18",
+    "CountyId": "095"
+  },
+  {
+    "CountyName": "Marion County, Indiana",
+    "AverageIncome": 30217,
+    "StateId": "18",
+    "CountyId": "097"
+  },
+  {
+    "CountyName": "Monroe County, Indiana",
+    "AverageIncome": 23557,
+    "StateId": "18",
+    "CountyId": "105"
+  },
+  {
+    "CountyName": "Morgan County, Indiana",
+    "AverageIncome": 31694,
+    "StateId": "18",
+    "CountyId": "109"
+  },
+  {
+    "CountyName": "Porter County, Indiana",
+    "AverageIncome": 32285,
+    "StateId": "18",
+    "CountyId": "127"
+  },
+  {
+    "CountyName": "St. Joseph County, Indiana",
+    "AverageIncome": 28149,
+    "StateId": "18",
+    "CountyId": "141"
+  },
+  {
+    "CountyName": "Tippecanoe County, Indiana",
+    "AverageIncome": 23865,
+    "StateId": "18",
+    "CountyId": "157"
+  },
+  {
+    "CountyName": "Vanderburgh County, Indiana",
+    "AverageIncome": 26932,
+    "StateId": "18",
+    "CountyId": "163"
+  },
+  {
+    "CountyName": "Vigo County, Indiana",
+    "AverageIncome": 24039,
+    "StateId": "18",
+    "CountyId": "167"
+  },
+  {
+    "CountyName": "Wayne County, Indiana",
+    "AverageIncome": 25939,
+    "StateId": "18",
+    "CountyId": "177"
+  },
+  {
+    "CountyName": "Black Hawk County, Iowa",
+    "AverageIncome": 26869,
+    "StateId": "19",
+    "CountyId": "013"
+  },
+  {
+    "CountyName": "Dallas County, Iowa",
+    "AverageIncome": 44424,
+    "StateId": "19",
+    "CountyId": "049"
+  },
+  {
+    "CountyName": "Dubuque County, Iowa",
+    "AverageIncome": 30181,
+    "StateId": "19",
+    "CountyId": "061"
+  },
+  {
+    "CountyName": "Johnson County, Iowa",
+    "AverageIncome": 30307,
+    "StateId": "19",
+    "CountyId": "103"
+  },
+  {
+    "CountyName": "Linn County, Iowa",
+    "AverageIncome": 34358,
+    "StateId": "19",
+    "CountyId": "113"
+  },
+  {
+    "CountyName": "Polk County, Iowa",
+    "AverageIncome": 36870,
+    "StateId": "19",
+    "CountyId": "153"
+  },
+  {
+    "CountyName": "Pottawattamie County, Iowa",
+    "AverageIncome": 29895,
+    "StateId": "19",
+    "CountyId": "155"
+  },
+  {
+    "CountyName": "Scott County, Iowa",
+    "AverageIncome": 32060,
+    "StateId": "19",
+    "CountyId": "163"
+  },
+  {
+    "CountyName": "Story County, Iowa",
+    "AverageIncome": 23292,
+    "StateId": "19",
+    "CountyId": "169"
+  },
+  {
+    "CountyName": "Woodbury County, Iowa",
+    "AverageIncome": 31118,
+    "StateId": "19",
+    "CountyId": "193"
+  },
+  {
+    "CountyName": "Butler County, Kansas",
+    "AverageIncome": 31505,
+    "StateId": "20",
+    "CountyId": "015"
+  },
+  {
+    "CountyName": "Douglas County, Kansas",
+    "AverageIncome": 25752,
+    "StateId": "20",
+    "CountyId": "045"
+  },
+  {
+    "CountyName": "Johnson County, Kansas",
+    "AverageIncome": 42628,
+    "StateId": "20",
+    "CountyId": "091"
+  },
+  {
+    "CountyName": "Leavenworth County, Kansas",
+    "AverageIncome": 28304,
+    "StateId": "20",
+    "CountyId": "103"
+  },
+  {
+    "CountyName": "Riley County, Kansas",
+    "AverageIncome": 21247,
+    "StateId": "20",
+    "CountyId": "161"
+  },
+  {
+    "CountyName": "Sedgwick County, Kansas",
+    "AverageIncome": 29527,
+    "StateId": "20",
+    "CountyId": "173"
+  },
+  {
+    "CountyName": "Shawnee County, Kansas",
+    "AverageIncome": 30849,
+    "StateId": "20",
+    "CountyId": "177"
+  },
+  {
+    "CountyName": "Wyandotte County, Kansas",
+    "AverageIncome": 27104,
+    "StateId": "20",
+    "CountyId": "209"
+  },
+  {
+    "CountyName": "Boone County, Kentucky",
+    "AverageIncome": 36743,
+    "StateId": "21",
+    "CountyId": "015"
+  },
+  {
+    "CountyName": "Bullitt County, Kentucky",
+    "AverageIncome": 30494,
+    "StateId": "21",
+    "CountyId": "029"
+  },
+  {
+    "CountyName": "Campbell County, Kentucky",
+    "AverageIncome": 32151,
+    "StateId": "21",
+    "CountyId": "037"
+  },
+  {
+    "CountyName": "Christian County, Kentucky",
+    "AverageIncome": 26986,
+    "StateId": "21",
+    "CountyId": "047"
+  },
+  {
+    "CountyName": "Daviess County, Kentucky",
+    "AverageIncome": 25993,
+    "StateId": "21",
+    "CountyId": "059"
+  },
+  {
+    "CountyName": "Fayette County, Kentucky",
+    "AverageIncome": 30526,
+    "StateId": "21",
+    "CountyId": "067"
+  },
+  {
+    "CountyName": "Hardin County, Kentucky",
+    "AverageIncome": 30121,
+    "StateId": "21",
+    "CountyId": "093"
+  },
+  {
+    "CountyName": "Jefferson County, Kentucky",
+    "AverageIncome": 30710,
+    "StateId": "21",
+    "CountyId": "111"
+  },
+  {
+    "CountyName": "Kenton County, Kentucky",
+    "AverageIncome": 32922,
+    "StateId": "21",
+    "CountyId": "117"
+  },
+  {
+    "CountyName": "McCracken County, Kentucky",
+    "AverageIncome": 24643,
+    "StateId": "21",
+    "CountyId": "145"
+  },
+  {
+    "CountyName": "Madison County, Kentucky",
+    "AverageIncome": 23181,
+    "StateId": "21",
+    "CountyId": "151"
+  },
+  {
+    "CountyName": "Oldham County, Kentucky",
+    "AverageIncome": 40889,
+    "StateId": "21",
+    "CountyId": "185"
+  },
+  {
+    "CountyName": "Warren County, Kentucky",
+    "AverageIncome": 24016,
+    "StateId": "21",
+    "CountyId": "227"
+  },
+  {
+    "CountyName": "Ascension Parish, Louisiana",
+    "AverageIncome": 40082,
+    "StateId": "22",
+    "CountyId": "005"
+  },
+  {
+    "CountyName": "Bossier Parish, Louisiana",
+    "AverageIncome": 30191,
+    "StateId": "22",
+    "CountyId": "015"
+  },
+  {
+    "CountyName": "Caddo Parish, Louisiana",
+    "AverageIncome": 23781,
+    "StateId": "22",
+    "CountyId": "017"
+  },
+  {
+    "CountyName": "Calcasieu Parish, Louisiana",
+    "AverageIncome": 26144,
+    "StateId": "22",
+    "CountyId": "019"
+  },
+  {
+    "CountyName": "East Baton Rouge Parish, Louisiana",
+    "AverageIncome": 28095,
+    "StateId": "22",
+    "CountyId": "033"
+  },
+  {
+    "CountyName": "Iberia Parish, Louisiana",
+    "AverageIncome": 21716,
+    "StateId": "22",
+    "CountyId": "045"
+  },
+  {
+    "CountyName": "Jefferson Parish, Louisiana",
+    "AverageIncome": 27150,
+    "StateId": "22",
+    "CountyId": "051"
+  },
+  {
+    "CountyName": "Lafayette Parish, Louisiana",
+    "AverageIncome": 28347,
+    "StateId": "22",
+    "CountyId": "055"
+  },
+  {
+    "CountyName": "Lafourche Parish, Louisiana",
+    "AverageIncome": 25658,
+    "StateId": "22",
+    "CountyId": "057"
+  },
+  {
+    "CountyName": "Livingston Parish, Louisiana",
+    "AverageIncome": 35460,
+    "StateId": "22",
+    "CountyId": "063"
+  },
+  {
+    "CountyName": "Orleans Parish, Louisiana",
+    "AverageIncome": 24724,
+    "StateId": "22",
+    "CountyId": "071"
+  },
+  {
+    "CountyName": "Ouachita Parish, Louisiana",
+    "AverageIncome": 26349,
+    "StateId": "22",
+    "CountyId": "073"
+  },
+  {
+    "CountyName": "Rapides Parish, Louisiana",
+    "AverageIncome": 26395,
+    "StateId": "22",
+    "CountyId": "079"
+  },
+  {
+    "CountyName": "St. Landry Parish, Louisiana",
+    "AverageIncome": 20383,
+    "StateId": "22",
+    "CountyId": "097"
+  },
+  {
+    "CountyName": "St. Tammany Parish, Louisiana",
+    "AverageIncome": 29481,
+    "StateId": "22",
+    "CountyId": "103"
+  },
+  {
+    "CountyName": "Tangipahoa Parish, Louisiana",
+    "AverageIncome": 22735,
+    "StateId": "22",
+    "CountyId": "105"
+  },
+  {
+    "CountyName": "Terrebonne Parish, Louisiana",
+    "AverageIncome": 26239,
+    "StateId": "22",
+    "CountyId": "109"
+  },
+  {
+    "CountyName": "Androscoggin County, Maine",
+    "AverageIncome": 30315,
+    "StateId": "23",
+    "CountyId": "001"
+  },
+  {
+    "CountyName": "Aroostook County, Maine",
+    "AverageIncome": 22098,
+    "StateId": "23",
+    "CountyId": "003"
+  },
+  {
+    "CountyName": "Cumberland County, Maine",
+    "AverageIncome": 36637,
+    "StateId": "23",
+    "CountyId": "005"
+  },
+  {
+    "CountyName": "Kennebec County, Maine",
+    "AverageIncome": 28274,
+    "StateId": "23",
+    "CountyId": "011"
+  },
+  {
+    "CountyName": "Penobscot County, Maine",
+    "AverageIncome": 25052,
+    "StateId": "23",
+    "CountyId": "019"
+  },
+  {
+    "CountyName": "York County, Maine",
+    "AverageIncome": 32848,
+    "StateId": "23",
+    "CountyId": "031"
+  },
+  {
+    "CountyName": "Allegany County, Maryland",
+    "AverageIncome": 20864,
+    "StateId": "24",
+    "CountyId": "001"
+  },
+  {
+    "CountyName": "Anne Arundel County, Maryland",
+    "AverageIncome": 46368,
+    "StateId": "24",
+    "CountyId": "003"
+  },
+  {
+    "CountyName": "Baltimore County, Maryland",
+    "AverageIncome": 37321,
+    "StateId": "24",
+    "CountyId": "005"
+  },
+  {
+    "CountyName": "Calvert County, Maryland",
+    "AverageIncome": 47915,
+    "StateId": "24",
+    "CountyId": "009"
+  },
+  {
+    "CountyName": "Carroll County, Maryland",
+    "AverageIncome": 40834,
+    "StateId": "24",
+    "CountyId": "013"
+  },
+  {
+    "CountyName": "Cecil County, Maryland",
+    "AverageIncome": 33416,
+    "StateId": "24",
+    "CountyId": "015"
+  },
+  {
+    "CountyName": "Charles County, Maryland",
+    "AverageIncome": 45313,
+    "StateId": "24",
+    "CountyId": "017"
+  },
+  {
+    "CountyName": "Frederick County, Maryland",
+    "AverageIncome": 43187,
+    "StateId": "24",
+    "CountyId": "021"
+  },
+  {
+    "CountyName": "Harford County, Maryland",
+    "AverageIncome": 40194,
+    "StateId": "24",
+    "CountyId": "025"
+  },
+  {
+    "CountyName": "Howard County, Maryland",
+    "AverageIncome": 55763,
+    "StateId": "24",
+    "CountyId": "027"
+  },
+  {
+    "CountyName": "Montgomery County, Maryland",
+    "AverageIncome": 46280,
+    "StateId": "24",
+    "CountyId": "031"
+  },
+  {
+    "CountyName": "Prince George's County, Maryland",
+    "AverageIncome": 40044,
+    "StateId": "24",
+    "CountyId": "033"
+  },
+  {
+    "CountyName": "St. Mary's County, Maryland",
+    "AverageIncome": 40903,
+    "StateId": "24",
+    "CountyId": "037"
+  },
+  {
+    "CountyName": "Washington County, Maryland",
+    "AverageIncome": 30888,
+    "StateId": "24",
+    "CountyId": "043"
+  },
+  {
+    "CountyName": "Wicomico County, Maryland",
+    "AverageIncome": 26844,
+    "StateId": "24",
+    "CountyId": "045"
+  },
+  {
+    "CountyName": "Baltimore city, Maryland",
+    "AverageIncome": 30406,
+    "StateId": "24",
+    "CountyId": "510"
+  },
+  {
+    "CountyName": "Barnstable County, Massachusetts",
+    "AverageIncome": 34566,
+    "StateId": "25",
+    "CountyId": "001"
+  },
+  {
+    "CountyName": "Berkshire County, Massachusetts",
+    "AverageIncome": 31296,
+    "StateId": "25",
+    "CountyId": "003"
+  },
+  {
+    "CountyName": "Bristol County, Massachusetts",
+    "AverageIncome": 32232,
+    "StateId": "25",
+    "CountyId": "005"
+  },
+  {
+    "CountyName": "Essex County, Massachusetts",
+    "AverageIncome": 35534,
+    "StateId": "25",
+    "CountyId": "009"
+  },
+  {
+    "CountyName": "Franklin County, Massachusetts",
+    "AverageIncome": 32854,
+    "StateId": "25",
+    "CountyId": "011"
+  },
+  {
+    "CountyName": "Hampden County, Massachusetts",
+    "AverageIncome": 28425,
+    "StateId": "25",
+    "CountyId": "013"
+  },
+  {
+    "CountyName": "Hampshire County, Massachusetts",
+    "AverageIncome": 30130,
+    "StateId": "25",
+    "CountyId": "015"
+  },
+  {
+    "CountyName": "Middlesex County, Massachusetts",
+    "AverageIncome": 45874,
+    "StateId": "25",
+    "CountyId": "017"
+  },
+  {
+    "CountyName": "Norfolk County, Massachusetts",
+    "AverageIncome": 46052,
+    "StateId": "25",
+    "CountyId": "021"
+  },
+  {
+    "CountyName": "Plymouth County, Massachusetts",
+    "AverageIncome": 39456,
+    "StateId": "25",
+    "CountyId": "023"
+  },
+  {
+    "CountyName": "Suffolk County, Massachusetts",
+    "AverageIncome": 33899,
+    "StateId": "25",
+    "CountyId": "025"
+  },
+  {
+    "CountyName": "Worcester County, Massachusetts",
+    "AverageIncome": 35031,
+    "StateId": "25",
+    "CountyId": "027"
+  },
+  {
+    "CountyName": "Allegan County, Michigan",
+    "AverageIncome": 29898,
+    "StateId": "26",
+    "CountyId": "005"
+  },
+  {
+    "CountyName": "Bay County, Michigan",
+    "AverageIncome": 26360,
+    "StateId": "26",
+    "CountyId": "017"
+  },
+  {
+    "CountyName": "Berrien County, Michigan",
+    "AverageIncome": 28319,
+    "StateId": "26",
+    "CountyId": "021"
+  },
+  {
+    "CountyName": "Calhoun County, Michigan",
+    "AverageIncome": 26975,
+    "StateId": "26",
+    "CountyId": "025"
+  },
+  {
+    "CountyName": "Clinton County, Michigan",
+    "AverageIncome": 34411,
+    "StateId": "26",
+    "CountyId": "037"
+  },
+  {
+    "CountyName": "Eaton County, Michigan",
+    "AverageIncome": 33730,
+    "StateId": "26",
+    "CountyId": "045"
+  },
+  {
+    "CountyName": "Genesee County, Michigan",
+    "AverageIncome": 27008,
+    "StateId": "26",
+    "CountyId": "049"
+  },
+  {
+    "CountyName": "Grand Traverse County, Michigan",
+    "AverageIncome": 31302,
+    "StateId": "26",
+    "CountyId": "055"
+  },
+  {
+    "CountyName": "Ingham County, Michigan",
+    "AverageIncome": 26053,
+    "StateId": "26",
+    "CountyId": "065"
+  },
+  {
+    "CountyName": "Isabella County, Michigan",
+    "AverageIncome": 18314,
+    "StateId": "26",
+    "CountyId": "073"
+  },
+  {
+    "CountyName": "Jackson County, Michigan",
+    "AverageIncome": 25666,
+    "StateId": "26",
+    "CountyId": "075"
+  },
+  {
+    "CountyName": "Kalamazoo County, Michigan",
+    "AverageIncome": 27772,
+    "StateId": "26",
+    "CountyId": "077"
+  },
+  {
+    "CountyName": "Kent County, Michigan",
+    "AverageIncome": 30865,
+    "StateId": "26",
+    "CountyId": "081"
+  },
+  {
+    "CountyName": "Lapeer County, Michigan",
+    "AverageIncome": 30351,
+    "StateId": "26",
+    "CountyId": "087"
+  },
+  {
+    "CountyName": "Lenawee County, Michigan",
+    "AverageIncome": 27189,
+    "StateId": "26",
+    "CountyId": "091"
+  },
+  {
+    "CountyName": "Livingston County, Michigan",
+    "AverageIncome": 38331,
+    "StateId": "26",
+    "CountyId": "093"
+  },
+  {
+    "CountyName": "Macomb County, Michigan",
+    "AverageIncome": 31143,
+    "StateId": "26",
+    "CountyId": "099"
+  },
+  {
+    "CountyName": "Marquette County, Michigan",
+    "AverageIncome": 26853,
+    "StateId": "26",
+    "CountyId": "103"
+  },
+  {
+    "CountyName": "Midland County, Michigan",
+    "AverageIncome": 29167,
+    "StateId": "26",
+    "CountyId": "111"
+  },
+  {
+    "CountyName": "Monroe County, Michigan",
+    "AverageIncome": 31690,
+    "StateId": "26",
+    "CountyId": "115"
+  },
+  {
+    "CountyName": "Muskegon County, Michigan",
+    "AverageIncome": 26834,
+    "StateId": "26",
+    "CountyId": "121"
+  },
+  {
+    "CountyName": "Oakland County, Michigan",
+    "AverageIncome": 38531,
+    "StateId": "26",
+    "CountyId": "125"
+  },
+  {
+    "CountyName": "Ottawa County, Michigan",
+    "AverageIncome": 31063,
+    "StateId": "26",
+    "CountyId": "139"
+  },
+  {
+    "CountyName": "Saginaw County, Michigan",
+    "AverageIncome": 26796,
+    "StateId": "26",
+    "CountyId": "145"
+  },
+  {
+    "CountyName": "St. Clair County, Michigan",
+    "AverageIncome": 28037,
+    "StateId": "26",
+    "CountyId": "147"
+  },
+  {
+    "CountyName": "Shiawassee County, Michigan",
+    "AverageIncome": 29256,
+    "StateId": "26",
+    "CountyId": "155"
+  },
+  {
+    "CountyName": "Van Buren County, Michigan",
+    "AverageIncome": 28158,
+    "StateId": "26",
+    "CountyId": "159"
+  },
+  {
+    "CountyName": "Washtenaw County, Michigan",
+    "AverageIncome": 32605,
+    "StateId": "26",
+    "CountyId": "161"
+  },
+  {
+    "CountyName": "Wayne County, Michigan",
+    "AverageIncome": 26757,
+    "StateId": "26",
+    "CountyId": "163"
+  },
+  {
+    "CountyName": "Anoka County, Minnesota",
+    "AverageIncome": 40139,
+    "StateId": "27",
+    "CountyId": "003"
+  },
+  {
+    "CountyName": "Blue Earth County, Minnesota",
+    "AverageIncome": 27437,
+    "StateId": "27",
+    "CountyId": "013"
+  },
+  {
+    "CountyName": "Carver County, Minnesota",
+    "AverageIncome": 46958,
+    "StateId": "27",
+    "CountyId": "019"
+  },
+  {
+    "CountyName": "Dakota County, Minnesota",
+    "AverageIncome": 41682,
+    "StateId": "27",
+    "CountyId": "037"
+  },
+  {
+    "CountyName": "Hennepin County, Minnesota",
+    "AverageIncome": 40211,
+    "StateId": "27",
+    "CountyId": "053"
+  },
+  {
+    "CountyName": "Olmsted County, Minnesota",
+    "AverageIncome": 38532,
+    "StateId": "27",
+    "CountyId": "109"
+  },
+  {
+    "CountyName": "Ramsey County, Minnesota",
+    "AverageIncome": 32759,
+    "StateId": "27",
+    "CountyId": "123"
+  },
+  {
+    "CountyName": "Rice County, Minnesota",
+    "AverageIncome": 31348,
+    "StateId": "27",
+    "CountyId": "131"
+  },
+  {
+    "CountyName": "St. Louis County, Minnesota",
+    "AverageIncome": 27697,
+    "StateId": "27",
+    "CountyId": "137"
+  },
+  {
+    "CountyName": "Scott County, Minnesota",
+    "AverageIncome": 42131,
+    "StateId": "27",
+    "CountyId": "139"
+  },
+  {
+    "CountyName": "Sherburne County, Minnesota",
+    "AverageIncome": 36386,
+    "StateId": "27",
+    "CountyId": "141"
+  },
+  {
+    "CountyName": "Stearns County, Minnesota",
+    "AverageIncome": 28232,
+    "StateId": "27",
+    "CountyId": "145"
+  },
+  {
+    "CountyName": "Washington County, Minnesota",
+    "AverageIncome": 44711,
+    "StateId": "27",
+    "CountyId": "163"
+  },
+  {
+    "CountyName": "Wright County, Minnesota",
+    "AverageIncome": 40614,
+    "StateId": "27",
+    "CountyId": "171"
+  },
+  {
+    "CountyName": "DeSoto County, Mississippi",
+    "AverageIncome": 31184,
+    "StateId": "28",
+    "CountyId": "033"
+  },
+  {
+    "CountyName": "Forrest County, Mississippi",
+    "AverageIncome": 17441,
+    "StateId": "28",
+    "CountyId": "035"
+  },
+  {
+    "CountyName": "Harrison County, Mississippi",
+    "AverageIncome": 24552,
+    "StateId": "28",
+    "CountyId": "047"
+  },
+  {
+    "CountyName": "Hinds County, Mississippi",
+    "AverageIncome": 24592,
+    "StateId": "28",
+    "CountyId": "049"
+  },
+  {
+    "CountyName": "Jackson County, Mississippi",
+    "AverageIncome": 26127,
+    "StateId": "28",
+    "CountyId": "059"
+  },
+  {
+    "CountyName": "Jones County, Mississippi",
+    "AverageIncome": 28622,
+    "StateId": "28",
+    "CountyId": "067"
+  },
+  {
+    "CountyName": "Lauderdale County, Mississippi",
+    "AverageIncome": 20443,
+    "StateId": "28",
+    "CountyId": "075"
+  },
+  {
+    "CountyName": "Lee County, Mississippi",
+    "AverageIncome": 28186,
+    "StateId": "28",
+    "CountyId": "081"
+  },
+  {
+    "CountyName": "Madison County, Mississippi",
+    "AverageIncome": 36903,
+    "StateId": "28",
+    "CountyId": "089"
+  },
+  {
+    "CountyName": "Rankin County, Mississippi",
+    "AverageIncome": 31873,
+    "StateId": "28",
+    "CountyId": "121"
+  },
+  {
+    "CountyName": "Boone County, Missouri",
+    "AverageIncome": 28415,
+    "StateId": "29",
+    "CountyId": "019"
+  },
+  {
+    "CountyName": "Buchanan County, Missouri",
+    "AverageIncome": 28859,
+    "StateId": "29",
+    "CountyId": "021"
+  },
+  {
+    "CountyName": "Cape Girardeau County, Missouri",
+    "AverageIncome": 25065,
+    "StateId": "29",
+    "CountyId": "031"
+  },
+  {
+    "CountyName": "Cass County, Missouri",
+    "AverageIncome": 34107,
+    "StateId": "29",
+    "CountyId": "037"
+  },
+  {
+    "CountyName": "Christian County, Missouri",
+    "AverageIncome": 27725,
+    "StateId": "29",
+    "CountyId": "043"
+  },
+  {
+    "CountyName": "Clay County, Missouri",
+    "AverageIncome": 35784,
+    "StateId": "29",
+    "CountyId": "047"
+  },
+  {
+    "CountyName": "Cole County, Missouri",
+    "AverageIncome": 32732,
+    "StateId": "29",
+    "CountyId": "051"
+  },
+  {
+    "CountyName": "Franklin County, Missouri",
+    "AverageIncome": 30785,
+    "StateId": "29",
+    "CountyId": "071"
+  },
+  {
+    "CountyName": "Greene County, Missouri",
+    "AverageIncome": 26466,
+    "StateId": "29",
+    "CountyId": "077"
+  },
+  {
+    "CountyName": "Jackson County, Missouri",
+    "AverageIncome": 31266,
+    "StateId": "29",
+    "CountyId": "095"
+  },
+  {
+    "CountyName": "Jasper County, Missouri",
+    "AverageIncome": 25320,
+    "StateId": "29",
+    "CountyId": "097"
+  },
+  {
+    "CountyName": "Jefferson County, Missouri",
+    "AverageIncome": 32624,
+    "StateId": "29",
+    "CountyId": "099"
+  },
+  {
+    "CountyName": "Platte County, Missouri",
+    "AverageIncome": 37284,
+    "StateId": "29",
+    "CountyId": "165"
+  },
+  {
+    "CountyName": "St. Charles County, Missouri",
+    "AverageIncome": 37405,
+    "StateId": "29",
+    "CountyId": "183"
+  },
+  {
+    "CountyName": "St. Francois County, Missouri",
+    "AverageIncome": 24267,
+    "StateId": "29",
+    "CountyId": "187"
+  },
+  {
+    "CountyName": "St. Louis County, Missouri",
+    "AverageIncome": 34960,
+    "StateId": "29",
+    "CountyId": "189"
+  },
+  {
+    "CountyName": "St. Louis city, Missouri",
+    "AverageIncome": 29755,
+    "StateId": "29",
+    "CountyId": "510"
+  },
+  {
+    "CountyName": "Cascade County, Montana",
+    "AverageIncome": 30216,
+    "StateId": "30",
+    "CountyId": "013"
+  },
+  {
+    "CountyName": "Flathead County, Montana",
+    "AverageIncome": 28459,
+    "StateId": "30",
+    "CountyId": "029"
+  },
+  {
+    "CountyName": "Gallatin County, Montana",
+    "AverageIncome": 30306,
+    "StateId": "30",
+    "CountyId": "031"
+  },
+  {
+    "CountyName": "Lewis and Clark County, Montana",
+    "AverageIncome": 31991,
+    "StateId": "30",
+    "CountyId": "049"
+  },
+  {
+    "CountyName": "Missoula County, Montana",
+    "AverageIncome": 26959,
+    "StateId": "30",
+    "CountyId": "063"
+  },
+  {
+    "CountyName": "Yellowstone County, Montana",
+    "AverageIncome": 31681,
+    "StateId": "30",
+    "CountyId": "111"
+  },
+  {
+    "CountyName": "Douglas County, Nebraska",
+    "AverageIncome": 34588,
+    "StateId": "31",
+    "CountyId": "055"
+  },
+  {
+    "CountyName": "Lancaster County, Nebraska",
+    "AverageIncome": 30988,
+    "StateId": "31",
+    "CountyId": "109"
+  },
+  {
+    "CountyName": "Sarpy County, Nebraska",
+    "AverageIncome": 37174,
+    "StateId": "31",
+    "CountyId": "153"
+  },
+  {
+    "CountyName": "Clark County, Nevada",
+    "AverageIncome": 30872,
+    "StateId": "32",
+    "CountyId": "003"
+  },
+  {
+    "CountyName": "Washoe County, Nevada",
+    "AverageIncome": 33521,
+    "StateId": "32",
+    "CountyId": "031"
+  },
+  {
+    "CountyName": "Cheshire County, New Hampshire",
+    "AverageIncome": 27230,
+    "StateId": "33",
+    "CountyId": "005"
+  },
+  {
+    "CountyName": "Grafton County, New Hampshire",
+    "AverageIncome": 31523,
+    "StateId": "33",
+    "CountyId": "009"
+  },
+  {
+    "CountyName": "Hillsborough County, New Hampshire",
+    "AverageIncome": 36897,
+    "StateId": "33",
+    "CountyId": "011"
+  },
+  {
+    "CountyName": "Merrimack County, New Hampshire",
+    "AverageIncome": 35317,
+    "StateId": "33",
+    "CountyId": "013"
+  },
+  {
+    "CountyName": "Rockingham County, New Hampshire",
+    "AverageIncome": 40752,
+    "StateId": "33",
+    "CountyId": "015"
+  },
+  {
+    "CountyName": "Strafford County, New Hampshire",
+    "AverageIncome": 31461,
+    "StateId": "33",
+    "CountyId": "017"
+  },
+  {
+    "CountyName": "Atlantic County, New Jersey",
+    "AverageIncome": 29718,
+    "StateId": "34",
+    "CountyId": "001"
+  },
+  {
+    "CountyName": "Bergen County, New Jersey",
+    "AverageIncome": 45803,
+    "StateId": "34",
+    "CountyId": "003"
+  },
+  {
+    "CountyName": "Burlington County, New Jersey",
+    "AverageIncome": 40368,
+    "StateId": "34",
+    "CountyId": "005"
+  },
+  {
+    "CountyName": "Camden County, New Jersey",
+    "AverageIncome": 32342,
+    "StateId": "34",
+    "CountyId": "007"
+  },
+  {
+    "CountyName": "Cape May County, New Jersey",
+    "AverageIncome": 33479,
+    "StateId": "34",
+    "CountyId": "009"
+  },
+  {
+    "CountyName": "Cumberland County, New Jersey",
+    "AverageIncome": 25321,
+    "StateId": "34",
+    "CountyId": "011"
+  },
+  {
+    "CountyName": "Essex County, New Jersey",
+    "AverageIncome": 32875,
+    "StateId": "34",
+    "CountyId": "013"
+  },
+  {
+    "CountyName": "Gloucester County, New Jersey",
+    "AverageIncome": 37418,
+    "StateId": "34",
+    "CountyId": "015"
+  },
+  {
+    "CountyName": "Hudson County, New Jersey",
+    "AverageIncome": 36780,
+    "StateId": "34",
+    "CountyId": "017"
+  },
+  {
+    "CountyName": "Hunterdon County, New Jersey",
+    "AverageIncome": 51739,
+    "StateId": "34",
+    "CountyId": "019"
+  },
+  {
+    "CountyName": "Mercer County, New Jersey",
+    "AverageIncome": 33576,
+    "StateId": "34",
+    "CountyId": "021"
+  },
+  {
+    "CountyName": "Middlesex County, New Jersey",
+    "AverageIncome": 40722,
+    "StateId": "34",
+    "CountyId": "023"
+  },
+  {
+    "CountyName": "Monmouth County, New Jersey",
+    "AverageIncome": 43673,
+    "StateId": "34",
+    "CountyId": "025"
+  },
+  {
+    "CountyName": "Morris County, New Jersey",
+    "AverageIncome": 49276,
+    "StateId": "34",
+    "CountyId": "027"
+  },
+  {
+    "CountyName": "Ocean County, New Jersey",
+    "AverageIncome": 34341,
+    "StateId": "34",
+    "CountyId": "029"
+  },
+  {
+    "CountyName": "Passaic County, New Jersey",
+    "AverageIncome": 33154,
+    "StateId": "34",
+    "CountyId": "031"
+  },
+  {
+    "CountyName": "Salem County, New Jersey",
+    "AverageIncome": 31317,
+    "StateId": "34",
+    "CountyId": "033"
+  },
+  {
+    "CountyName": "Somerset County, New Jersey",
+    "AverageIncome": 52712,
+    "StateId": "34",
+    "CountyId": "035"
+  },
+  {
+    "CountyName": "Sussex County, New Jersey",
+    "AverageIncome": 42496,
+    "StateId": "34",
+    "CountyId": "037"
+  },
+  {
+    "CountyName": "Union County, New Jersey",
+    "AverageIncome": 37069,
+    "StateId": "34",
+    "CountyId": "039"
+  },
+  {
+    "CountyName": "Warren County, New Jersey",
+    "AverageIncome": 37123,
+    "StateId": "34",
+    "CountyId": "041"
+  },
+  {
+    "CountyName": "Bernalillo County, New Mexico",
+    "AverageIncome": 27384,
+    "StateId": "35",
+    "CountyId": "001"
+  },
+  {
+    "CountyName": "Chaves County, New Mexico",
+    "AverageIncome": 23831,
+    "StateId": "35",
+    "CountyId": "005"
+  },
+  {
+    "CountyName": "Doña Ana County, New Mexico",
+    "AverageIncome": 20430,
+    "StateId": "35",
+    "CountyId": "013"
+  },
+  {
+    "CountyName": "Lea County, New Mexico",
+    "AverageIncome": 27374,
+    "StateId": "35",
+    "CountyId": "025"
+  },
+  {
+    "CountyName": "McKinley County, New Mexico",
+    "AverageIncome": 17198,
+    "StateId": "35",
+    "CountyId": "031"
+  },
+  {
+    "CountyName": "Otero County, New Mexico",
+    "AverageIncome": 23726,
+    "StateId": "35",
+    "CountyId": "035"
+  },
+  {
+    "CountyName": "Sandoval County, New Mexico",
+    "AverageIncome": 27892,
+    "StateId": "35",
+    "CountyId": "043"
+  },
+  {
+    "CountyName": "San Juan County, New Mexico",
+    "AverageIncome": 24594,
+    "StateId": "35",
+    "CountyId": "045"
+  },
+  {
+    "CountyName": "Santa Fe County, New Mexico",
+    "AverageIncome": 32428,
+    "StateId": "35",
+    "CountyId": "049"
+  },
+  {
+    "CountyName": "Valencia County, New Mexico",
+    "AverageIncome": 24373,
+    "StateId": "35",
+    "CountyId": "061"
+  },
+  {
+    "CountyName": "Albany County, New York",
+    "AverageIncome": 34780,
+    "StateId": "36",
+    "CountyId": "001"
+  },
+  {
+    "CountyName": "Bronx County, New York",
+    "AverageIncome": 22170,
+    "StateId": "36",
+    "CountyId": "005"
+  },
+  {
+    "CountyName": "Broome County, New York",
+    "AverageIncome": 25673,
+    "StateId": "36",
+    "CountyId": "007"
+  },
+  {
+    "CountyName": "Cattaraugus County, New York",
+    "AverageIncome": 25853,
+    "StateId": "36",
+    "CountyId": "009"
+  },
+  {
+    "CountyName": "Cayuga County, New York",
+    "AverageIncome": 30874,
+    "StateId": "36",
+    "CountyId": "011"
+  },
+  {
+    "CountyName": "Chautauqua County, New York",
+    "AverageIncome": 25391,
+    "StateId": "36",
+    "CountyId": "013"
+  },
+  {
+    "CountyName": "Chemung County, New York",
+    "AverageIncome": 27398,
+    "StateId": "36",
+    "CountyId": "015"
+  },
+  {
+    "CountyName": "Clinton County, New York",
+    "AverageIncome": 30491,
+    "StateId": "36",
+    "CountyId": "019"
+  },
+  {
+    "CountyName": "Dutchess County, New York",
+    "AverageIncome": 35850,
+    "StateId": "36",
+    "CountyId": "027"
+  },
+  {
+    "CountyName": "Erie County, New York",
+    "AverageIncome": 31813,
+    "StateId": "36",
+    "CountyId": "029"
+  },
+  {
+    "CountyName": "Jefferson County, New York",
+    "AverageIncome": 29567,
+    "StateId": "36",
+    "CountyId": "045"
+  },
+  {
+    "CountyName": "Kings County, New York",
+    "AverageIncome": 32134,
+    "StateId": "36",
+    "CountyId": "047"
+  },
+  {
+    "CountyName": "Livingston County, New York",
+    "AverageIncome": 31071,
+    "StateId": "36",
+    "CountyId": "051"
+  },
+  {
+    "CountyName": "Madison County, New York",
+    "AverageIncome": 29507,
+    "StateId": "36",
+    "CountyId": "053"
+  },
+  {
+    "CountyName": "Monroe County, New York",
+    "AverageIncome": 31256,
+    "StateId": "36",
+    "CountyId": "055"
+  },
+  {
+    "CountyName": "Nassau County, New York",
+    "AverageIncome": 45411,
+    "StateId": "36",
+    "CountyId": "059"
+  },
+  {
+    "CountyName": "New York County, New York",
+    "AverageIncome": 50761,
+    "StateId": "36",
+    "CountyId": "061"
+  },
+  {
+    "CountyName": "Niagara County, New York",
+    "AverageIncome": 30693,
+    "StateId": "36",
+    "CountyId": "063"
+  },
+  {
+    "CountyName": "Oneida County, New York",
+    "AverageIncome": 29245,
+    "StateId": "36",
+    "CountyId": "065"
+  },
+  {
+    "CountyName": "Onondaga County, New York",
+    "AverageIncome": 32339,
+    "StateId": "36",
+    "CountyId": "067"
+  },
+  {
+    "CountyName": "Ontario County, New York",
+    "AverageIncome": 31561,
+    "StateId": "36",
+    "CountyId": "069"
+  },
+  {
+    "CountyName": "Orange County, New York",
+    "AverageIncome": 32318,
+    "StateId": "36",
+    "CountyId": "071"
+  },
+  {
+    "CountyName": "Oswego County, New York",
+    "AverageIncome": 27613,
+    "StateId": "36",
+    "CountyId": "075"
+  },
+  {
+    "CountyName": "Putnam County, New York",
+    "AverageIncome": 41892,
+    "StateId": "36",
+    "CountyId": "079"
+  },
+  {
+    "CountyName": "Queens County, New York",
+    "AverageIncome": 32374,
+    "StateId": "36",
+    "CountyId": "081"
+  },
+  {
+    "CountyName": "Rensselaer County, New York",
+    "AverageIncome": 36283,
+    "StateId": "36",
+    "CountyId": "083"
+  },
+  {
+    "CountyName": "Richmond County, New York",
+    "AverageIncome": 40158,
+    "StateId": "36",
+    "CountyId": "085"
+  },
+  {
+    "CountyName": "Rockland County, New York",
+    "AverageIncome": 38315,
+    "StateId": "36",
+    "CountyId": "087"
+  },
+  {
+    "CountyName": "St. Lawrence County, New York",
+    "AverageIncome": 26069,
+    "StateId": "36",
+    "CountyId": "089"
+  },
+  {
+    "CountyName": "Saratoga County, New York",
+    "AverageIncome": 40872,
+    "StateId": "36",
+    "CountyId": "091"
+  },
+  {
+    "CountyName": "Schenectady County, New York",
+    "AverageIncome": 31877,
+    "StateId": "36",
+    "CountyId": "093"
+  },
+  {
+    "CountyName": "Steuben County, New York",
+    "AverageIncome": 28969,
+    "StateId": "36",
+    "CountyId": "101"
+  },
+  {
+    "CountyName": "Suffolk County, New York",
+    "AverageIncome": 41608,
+    "StateId": "36",
+    "CountyId": "103"
+  },
+  {
+    "CountyName": "Sullivan County, New York",
+    "AverageIncome": 29544,
+    "StateId": "36",
+    "CountyId": "105"
+  },
+  {
+    "CountyName": "Tompkins County, New York",
+    "AverageIncome": 29222,
+    "StateId": "36",
+    "CountyId": "109"
+  },
+  {
+    "CountyName": "Ulster County, New York",
+    "AverageIncome": 31758,
+    "StateId": "36",
+    "CountyId": "111"
+  },
+  {
+    "CountyName": "Warren County, New York",
+    "AverageIncome": 30072,
+    "StateId": "36",
+    "CountyId": "113"
+  },
+  {
+    "CountyName": "Wayne County, New York",
+    "AverageIncome": 31252,
+    "StateId": "36",
+    "CountyId": "117"
+  },
+  {
+    "CountyName": "Westchester County, New York",
+    "AverageIncome": 41867,
+    "StateId": "36",
+    "CountyId": "119"
+  },
+  {
+    "CountyName": "Alamance County, North Carolina",
+    "AverageIncome": 28639,
+    "StateId": "37",
+    "CountyId": "001"
+  },
+  {
+    "CountyName": "Brunswick County, North Carolina",
+    "AverageIncome": 27740,
+    "StateId": "37",
+    "CountyId": "019"
+  },
+  {
+    "CountyName": "Buncombe County, North Carolina",
+    "AverageIncome": 30363,
+    "StateId": "37",
+    "CountyId": "021"
+  },
+  {
+    "CountyName": "Burke County, North Carolina",
+    "AverageIncome": 24856,
+    "StateId": "37",
+    "CountyId": "023"
+  },
+  {
+    "CountyName": "Cabarrus County, North Carolina",
+    "AverageIncome": 32087,
+    "StateId": "37",
+    "CountyId": "025"
+  },
+  {
+    "CountyName": "Caldwell County, North Carolina",
+    "AverageIncome": 22572,
+    "StateId": "37",
+    "CountyId": "027"
+  },
+  {
+    "CountyName": "Carteret County, North Carolina",
+    "AverageIncome": 27685,
+    "StateId": "37",
+    "CountyId": "031"
+  },
+  {
+    "CountyName": "Catawba County, North Carolina",
+    "AverageIncome": 27466,
+    "StateId": "37",
+    "CountyId": "035"
+  },
+  {
+    "CountyName": "Chatham County, North Carolina",
+    "AverageIncome": 32695,
+    "StateId": "37",
+    "CountyId": "037"
+  },
+  {
+    "CountyName": "Cleveland County, North Carolina",
+    "AverageIncome": 23021,
+    "StateId": "37",
+    "CountyId": "045"
+  },
+  {
+    "CountyName": "Craven County, North Carolina",
+    "AverageIncome": 27124,
+    "StateId": "37",
+    "CountyId": "049"
+  },
+  {
+    "CountyName": "Cumberland County, North Carolina",
+    "AverageIncome": 26341,
+    "StateId": "37",
+    "CountyId": "051"
+  },
+  {
+    "CountyName": "Davidson County, North Carolina",
+    "AverageIncome": 26811,
+    "StateId": "37",
+    "CountyId": "057"
+  },
+  {
+    "CountyName": "Durham County, North Carolina",
+    "AverageIncome": 32433,
+    "StateId": "37",
+    "CountyId": "063"
+  },
+  {
+    "CountyName": "Forsyth County, North Carolina",
+    "AverageIncome": 29264,
+    "StateId": "37",
+    "CountyId": "067"
+  },
+  {
+    "CountyName": "Franklin County, North Carolina",
+    "AverageIncome": 33889,
+    "StateId": "37",
+    "CountyId": "069"
+  },
+  {
+    "CountyName": "Gaston County, North Carolina",
+    "AverageIncome": 26224,
+    "StateId": "37",
+    "CountyId": "071"
+  },
+  {
+    "CountyName": "Guilford County, North Carolina",
+    "AverageIncome": 29966,
+    "StateId": "37",
+    "CountyId": "081"
+  },
+  {
+    "CountyName": "Harnett County, North Carolina",
+    "AverageIncome": 25922,
+    "StateId": "37",
+    "CountyId": "085"
+  },
+  {
+    "CountyName": "Henderson County, North Carolina",
+    "AverageIncome": 28025,
+    "StateId": "37",
+    "CountyId": "089"
+  },
+  {
+    "CountyName": "Iredell County, North Carolina",
+    "AverageIncome": 28804,
+    "StateId": "37",
+    "CountyId": "097"
+  },
+  {
+    "CountyName": "Johnston County, North Carolina",
+    "AverageIncome": 28216,
+    "StateId": "37",
+    "CountyId": "101"
+  },
+  {
+    "CountyName": "Lincoln County, North Carolina",
+    "AverageIncome": 31423,
+    "StateId": "37",
+    "CountyId": "109"
+  },
+  {
+    "CountyName": "Mecklenburg County, North Carolina",
+    "AverageIncome": 34283,
+    "StateId": "37",
+    "CountyId": "119"
+  },
+  {
+    "CountyName": "Moore County, North Carolina",
+    "AverageIncome": 30774,
+    "StateId": "37",
+    "CountyId": "125"
+  },
+  {
+    "CountyName": "Nash County, North Carolina",
+    "AverageIncome": 26141,
+    "StateId": "37",
+    "CountyId": "127"
+  },
+  {
+    "CountyName": "New Hanover County, North Carolina",
+    "AverageIncome": 29869,
+    "StateId": "37",
+    "CountyId": "129"
+  },
+  {
+    "CountyName": "Onslow County, North Carolina",
+    "AverageIncome": 24729,
+    "StateId": "37",
+    "CountyId": "133"
+  },
+  {
+    "CountyName": "Orange County, North Carolina",
+    "AverageIncome": 30978,
+    "StateId": "37",
+    "CountyId": "135"
+  },
+  {
+    "CountyName": "Pitt County, North Carolina",
+    "AverageIncome": 22330,
+    "StateId": "37",
+    "CountyId": "147"
+  },
+  {
+    "CountyName": "Randolph County, North Carolina",
+    "AverageIncome": 25311,
+    "StateId": "37",
+    "CountyId": "151"
+  },
+  {
+    "CountyName": "Robeson County, North Carolina",
+    "AverageIncome": 21875,
+    "StateId": "37",
+    "CountyId": "155"
+  },
+  {
+    "CountyName": "Rockingham County, North Carolina",
+    "AverageIncome": 23507,
+    "StateId": "37",
+    "CountyId": "157"
+  },
+  {
+    "CountyName": "Rowan County, North Carolina",
+    "AverageIncome": 25779,
+    "StateId": "37",
+    "CountyId": "159"
+  },
+  {
+    "CountyName": "Rutherford County, North Carolina",
+    "AverageIncome": 21998,
+    "StateId": "37",
+    "CountyId": "161"
+  },
+  {
+    "CountyName": "Surry County, North Carolina",
+    "AverageIncome": 24877,
+    "StateId": "37",
+    "CountyId": "171"
+  },
+  {
+    "CountyName": "Union County, North Carolina",
+    "AverageIncome": 35103,
+    "StateId": "37",
+    "CountyId": "179"
+  },
+  {
+    "CountyName": "Wake County, North Carolina",
+    "AverageIncome": 40164,
+    "StateId": "37",
+    "CountyId": "183"
+  },
+  {
+    "CountyName": "Wayne County, North Carolina",
+    "AverageIncome": 24741,
+    "StateId": "37",
+    "CountyId": "191"
+  },
+  {
+    "CountyName": "Wilkes County, North Carolina",
+    "AverageIncome": 23322,
+    "StateId": "37",
+    "CountyId": "193"
+  },
+  {
+    "CountyName": "Wilson County, North Carolina",
+    "AverageIncome": 23024,
+    "StateId": "37",
+    "CountyId": "195"
+  },
+  {
+    "CountyName": "Burleigh County, North Dakota",
+    "AverageIncome": 40628,
+    "StateId": "38",
+    "CountyId": "015"
+  },
+  {
+    "CountyName": "Cass County, North Dakota",
+    "AverageIncome": 36028,
+    "StateId": "38",
+    "CountyId": "017"
+  },
+  {
+    "CountyName": "Grand Forks County, North Dakota",
+    "AverageIncome": 30559,
+    "StateId": "38",
+    "CountyId": "035"
+  },
+  {
+    "CountyName": "Ward County, North Dakota",
+    "AverageIncome": 35560,
+    "StateId": "38",
+    "CountyId": "101"
+  },
+  {
+    "CountyName": "Allen County, Ohio",
+    "AverageIncome": 24715,
+    "StateId": "39",
+    "CountyId": "003"
+  },
+  {
+    "CountyName": "Ashtabula County, Ohio",
+    "AverageIncome": 25137,
+    "StateId": "39",
+    "CountyId": "007"
+  },
+  {
+    "CountyName": "Athens County, Ohio",
+    "AverageIncome": 14336,
+    "StateId": "39",
+    "CountyId": "009"
+  },
+  {
+    "CountyName": "Belmont County, Ohio",
+    "AverageIncome": 25104,
+    "StateId": "39",
+    "CountyId": "013"
+  },
+  {
+    "CountyName": "Butler County, Ohio",
+    "AverageIncome": 30555,
+    "StateId": "39",
+    "CountyId": "017"
+  },
+  {
+    "CountyName": "Clark County, Ohio",
+    "AverageIncome": 27165,
+    "StateId": "39",
+    "CountyId": "023"
+  },
+  {
+    "CountyName": "Clermont County, Ohio",
+    "AverageIncome": 31203,
+    "StateId": "39",
+    "CountyId": "025"
+  },
+  {
+    "CountyName": "Columbiana County, Ohio",
+    "AverageIncome": 24977,
+    "StateId": "39",
+    "CountyId": "029"
+  },
+  {
+    "CountyName": "Cuyahoga County, Ohio",
+    "AverageIncome": 29839,
+    "StateId": "39",
+    "CountyId": "035"
+  },
+  {
+    "CountyName": "Delaware County, Ohio",
+    "AverageIncome": 45187,
+    "StateId": "39",
+    "CountyId": "041"
+  },
+  {
+    "CountyName": "Erie County, Ohio",
+    "AverageIncome": 29348,
+    "StateId": "39",
+    "CountyId": "043"
+  },
+  {
+    "CountyName": "Fairfield County, Ohio",
+    "AverageIncome": 32008,
+    "StateId": "39",
+    "CountyId": "045"
+  },
+  {
+    "CountyName": "Franklin County, Ohio",
+    "AverageIncome": 32183,
+    "StateId": "39",
+    "CountyId": "049"
+  },
+  {
+    "CountyName": "Geauga County, Ohio",
+    "AverageIncome": 37133,
+    "StateId": "39",
+    "CountyId": "055"
+  },
+  {
+    "CountyName": "Greene County, Ohio",
+    "AverageIncome": 32897,
+    "StateId": "39",
+    "CountyId": "057"
+  },
+  {
+    "CountyName": "Hamilton County, Ohio",
+    "AverageIncome": 32180,
+    "StateId": "39",
+    "CountyId": "061"
+  },
+  {
+    "CountyName": "Hancock County, Ohio",
+    "AverageIncome": 31711,
+    "StateId": "39",
+    "CountyId": "063"
+  },
+  {
+    "CountyName": "Jefferson County, Ohio",
+    "AverageIncome": 22484,
+    "StateId": "39",
+    "CountyId": "081"
+  },
+  {
+    "CountyName": "Lake County, Ohio",
+    "AverageIncome": 34102,
+    "StateId": "39",
+    "CountyId": "085"
+  },
+  {
+    "CountyName": "Licking County, Ohio",
+    "AverageIncome": 31605,
+    "StateId": "39",
+    "CountyId": "089"
+  },
+  {
+    "CountyName": "Lorain County, Ohio",
+    "AverageIncome": 30622,
+    "StateId": "39",
+    "CountyId": "093"
+  },
+  {
+    "CountyName": "Lucas County, Ohio",
+    "AverageIncome": 26692,
+    "StateId": "39",
+    "CountyId": "095"
+  },
+  {
+    "CountyName": "Mahoning County, Ohio",
+    "AverageIncome": 26214,
+    "StateId": "39",
+    "CountyId": "099"
+  },
+  {
+    "CountyName": "Marion County, Ohio",
+    "AverageIncome": 22542,
+    "StateId": "39",
+    "CountyId": "101"
+  },
+  {
+    "CountyName": "Medina County, Ohio",
+    "AverageIncome": 36691,
+    "StateId": "39",
+    "CountyId": "103"
+  },
+  {
+    "CountyName": "Miami County, Ohio",
+    "AverageIncome": 31486,
+    "StateId": "39",
+    "CountyId": "109"
+  },
+  {
+    "CountyName": "Montgomery County, Ohio",
+    "AverageIncome": 29228,
+    "StateId": "39",
+    "CountyId": "113"
+  },
+  {
+    "CountyName": "Muskingum County, Ohio",
+    "AverageIncome": 27069,
+    "StateId": "39",
+    "CountyId": "119"
+  },
+  {
+    "CountyName": "Portage County, Ohio",
+    "AverageIncome": 27735,
+    "StateId": "39",
+    "CountyId": "133"
+  },
+  {
+    "CountyName": "Richland County, Ohio",
+    "AverageIncome": 24499,
+    "StateId": "39",
+    "CountyId": "139"
+  },
+  {
+    "CountyName": "Ross County, Ohio",
+    "AverageIncome": 25727,
+    "StateId": "39",
+    "CountyId": "141"
+  },
+  {
+    "CountyName": "Scioto County, Ohio",
+    "AverageIncome": 20980,
+    "StateId": "39",
+    "CountyId": "145"
+  },
+  {
+    "CountyName": "Stark County, Ohio",
+    "AverageIncome": 26898,
+    "StateId": "39",
+    "CountyId": "151"
+  },
+  {
+    "CountyName": "Summit County, Ohio",
+    "AverageIncome": 31405,
+    "StateId": "39",
+    "CountyId": "153"
+  },
+  {
+    "CountyName": "Trumbull County, Ohio",
+    "AverageIncome": 26640,
+    "StateId": "39",
+    "CountyId": "155"
+  },
+  {
+    "CountyName": "Tuscarawas County, Ohio",
+    "AverageIncome": 26407,
+    "StateId": "39",
+    "CountyId": "157"
+  },
+  {
+    "CountyName": "Warren County, Ohio",
+    "AverageIncome": 40607,
+    "StateId": "39",
+    "CountyId": "165"
+  },
+  {
+    "CountyName": "Wayne County, Ohio",
+    "AverageIncome": 28925,
+    "StateId": "39",
+    "CountyId": "169"
+  },
+  {
+    "CountyName": "Wood County, Ohio",
+    "AverageIncome": 30213,
+    "StateId": "39",
+    "CountyId": "173"
+  },
+  {
+    "CountyName": "Canadian County, Oklahoma",
+    "AverageIncome": 32272,
+    "StateId": "40",
+    "CountyId": "017"
+  },
+  {
+    "CountyName": "Cleveland County, Oklahoma",
+    "AverageIncome": 31118,
+    "StateId": "40",
+    "CountyId": "027"
+  },
+  {
+    "CountyName": "Comanche County, Oklahoma",
+    "AverageIncome": 26104,
+    "StateId": "40",
+    "CountyId": "031"
+  },
+  {
+    "CountyName": "Creek County, Oklahoma",
+    "AverageIncome": 26885,
+    "StateId": "40",
+    "CountyId": "037"
+  },
+  {
+    "CountyName": "Muskogee County, Oklahoma",
+    "AverageIncome": 25742,
+    "StateId": "40",
+    "CountyId": "101"
+  },
+  {
+    "CountyName": "Oklahoma County, Oklahoma",
+    "AverageIncome": 29036,
+    "StateId": "40",
+    "CountyId": "109"
+  },
+  {
+    "CountyName": "Payne County, Oklahoma",
+    "AverageIncome": 21674,
+    "StateId": "40",
+    "CountyId": "119"
+  },
+  {
+    "CountyName": "Pottawatomie County, Oklahoma",
+    "AverageIncome": 26153,
+    "StateId": "40",
+    "CountyId": "125"
+  },
+  {
+    "CountyName": "Rogers County, Oklahoma",
+    "AverageIncome": 31301,
+    "StateId": "40",
+    "CountyId": "131"
+  },
+  {
+    "CountyName": "Tulsa County, Oklahoma",
+    "AverageIncome": 30411,
+    "StateId": "40",
+    "CountyId": "143"
+  },
+  {
+    "CountyName": "Wagoner County, Oklahoma",
+    "AverageIncome": 31776,
+    "StateId": "40",
+    "CountyId": "145"
+  },
+  {
+    "CountyName": "Benton County, Oregon",
+    "AverageIncome": 25671,
+    "StateId": "41",
+    "CountyId": "003"
+  },
+  {
+    "CountyName": "Clackamas County, Oregon",
+    "AverageIncome": 38063,
+    "StateId": "41",
+    "CountyId": "005"
+  },
+  {
+    "CountyName": "Deschutes County, Oregon",
+    "AverageIncome": 32308,
+    "StateId": "41",
+    "CountyId": "017"
+  },
+  {
+    "CountyName": "Douglas County, Oregon",
+    "AverageIncome": 24280,
+    "StateId": "41",
+    "CountyId": "019"
+  },
+  {
+    "CountyName": "Jackson County, Oregon",
+    "AverageIncome": 28315,
+    "StateId": "41",
+    "CountyId": "029"
+  },
+  {
+    "CountyName": "Josephine County, Oregon",
+    "AverageIncome": 23520,
+    "StateId": "41",
+    "CountyId": "033"
+  },
+  {
+    "CountyName": "Klamath County, Oregon",
+    "AverageIncome": 22951,
+    "StateId": "41",
+    "CountyId": "035"
+  },
+  {
+    "CountyName": "Lane County, Oregon",
+    "AverageIncome": 26722,
+    "StateId": "41",
+    "CountyId": "039"
+  },
+  {
+    "CountyName": "Linn County, Oregon",
+    "AverageIncome": 26684,
+    "StateId": "41",
+    "CountyId": "043"
+  },
+  {
+    "CountyName": "Marion County, Oregon",
+    "AverageIncome": 27573,
+    "StateId": "41",
+    "CountyId": "047"
+  },
+  {
+    "CountyName": "Multnomah County, Oregon",
+    "AverageIncome": 35640,
+    "StateId": "41",
+    "CountyId": "051"
+  },
+  {
+    "CountyName": "Polk County, Oregon",
+    "AverageIncome": 27112,
+    "StateId": "41",
+    "CountyId": "053"
+  },
+  {
+    "CountyName": "Umatilla County, Oregon",
+    "AverageIncome": 25977,
+    "StateId": "41",
+    "CountyId": "059"
+  },
+  {
+    "CountyName": "Washington County, Oregon",
+    "AverageIncome": 38697,
+    "StateId": "41",
+    "CountyId": "067"
+  },
+  {
+    "CountyName": "Yamhill County, Oregon",
+    "AverageIncome": 28338,
+    "StateId": "41",
+    "CountyId": "071"
+  },
+  {
+    "CountyName": "Adams County, Pennsylvania",
+    "AverageIncome": 31362,
+    "StateId": "42",
+    "CountyId": "001"
+  },
+  {
+    "CountyName": "Allegheny County, Pennsylvania",
+    "AverageIncome": 32881,
+    "StateId": "42",
+    "CountyId": "003"
+  },
+  {
+    "CountyName": "Armstrong County, Pennsylvania",
+    "AverageIncome": 26470,
+    "StateId": "42",
+    "CountyId": "005"
+  },
+  {
+    "CountyName": "Beaver County, Pennsylvania",
+    "AverageIncome": 29239,
+    "StateId": "42",
+    "CountyId": "007"
+  },
+  {
+    "CountyName": "Berks County, Pennsylvania",
+    "AverageIncome": 30733,
+    "StateId": "42",
+    "CountyId": "011"
+  },
+  {
+    "CountyName": "Blair County, Pennsylvania",
+    "AverageIncome": 26648,
+    "StateId": "42",
+    "CountyId": "013"
+  },
+  {
+    "CountyName": "Bucks County, Pennsylvania",
+    "AverageIncome": 40048,
+    "StateId": "42",
+    "CountyId": "017"
+  },
+  {
+    "CountyName": "Butler County, Pennsylvania",
+    "AverageIncome": 32167,
+    "StateId": "42",
+    "CountyId": "019"
+  },
+  {
+    "CountyName": "Cambria County, Pennsylvania",
+    "AverageIncome": 24924,
+    "StateId": "42",
+    "CountyId": "021"
+  },
+  {
+    "CountyName": "Carbon County, Pennsylvania",
+    "AverageIncome": 28551,
+    "StateId": "42",
+    "CountyId": "025"
+  },
+  {
+    "CountyName": "Centre County, Pennsylvania",
+    "AverageIncome": 26019,
+    "StateId": "42",
+    "CountyId": "027"
+  },
+  {
+    "CountyName": "Chester County, Pennsylvania",
+    "AverageIncome": 42896,
+    "StateId": "42",
+    "CountyId": "029"
+  },
+  {
+    "CountyName": "Clearfield County, Pennsylvania",
+    "AverageIncome": 25959,
+    "StateId": "42",
+    "CountyId": "033"
+  },
+  {
+    "CountyName": "Columbia County, Pennsylvania",
+    "AverageIncome": 28397,
+    "StateId": "42",
+    "CountyId": "037"
+  },
+  {
+    "CountyName": "Crawford County, Pennsylvania",
+    "AverageIncome": 26412,
+    "StateId": "42",
+    "CountyId": "039"
+  },
+  {
+    "CountyName": "Cumberland County, Pennsylvania",
+    "AverageIncome": 34857,
+    "StateId": "42",
+    "CountyId": "041"
+  },
+  {
+    "CountyName": "Dauphin County, Pennsylvania",
+    "AverageIncome": 32471,
+    "StateId": "42",
+    "CountyId": "043"
+  },
+  {
+    "CountyName": "Delaware County, Pennsylvania",
+    "AverageIncome": 35577,
+    "StateId": "42",
+    "CountyId": "045"
+  },
+  {
+    "CountyName": "Erie County, Pennsylvania",
+    "AverageIncome": 24913,
+    "StateId": "42",
+    "CountyId": "049"
+  },
+  {
+    "CountyName": "Fayette County, Pennsylvania",
+    "AverageIncome": 26888,
+    "StateId": "42",
+    "CountyId": "051"
+  },
+  {
+    "CountyName": "Franklin County, Pennsylvania",
+    "AverageIncome": 30038,
+    "StateId": "42",
+    "CountyId": "055"
+  },
+  {
+    "CountyName": "Indiana County, Pennsylvania",
+    "AverageIncome": 22146,
+    "StateId": "42",
+    "CountyId": "063"
+  },
+  {
+    "CountyName": "Lackawanna County, Pennsylvania",
+    "AverageIncome": 27278,
+    "StateId": "42",
+    "CountyId": "069"
+  },
+  {
+    "CountyName": "Lancaster County, Pennsylvania",
+    "AverageIncome": 31881,
+    "StateId": "42",
+    "CountyId": "071"
+  },
+  {
+    "CountyName": "Lawrence County, Pennsylvania",
+    "AverageIncome": 24707,
+    "StateId": "42",
+    "CountyId": "073"
+  },
+  {
+    "CountyName": "Lebanon County, Pennsylvania",
+    "AverageIncome": 29980,
+    "StateId": "42",
+    "CountyId": "075"
+  },
+  {
+    "CountyName": "Lehigh County, Pennsylvania",
+    "AverageIncome": 30546,
+    "StateId": "42",
+    "CountyId": "077"
+  },
+  {
+    "CountyName": "Luzerne County, Pennsylvania",
+    "AverageIncome": 27106,
+    "StateId": "42",
+    "CountyId": "079"
+  },
+  {
+    "CountyName": "Lycoming County, Pennsylvania",
+    "AverageIncome": 26815,
+    "StateId": "42",
+    "CountyId": "081"
+  },
+  {
+    "CountyName": "Mercer County, Pennsylvania",
+    "AverageIncome": 25369,
+    "StateId": "42",
+    "CountyId": "085"
+  },
+  {
+    "CountyName": "Monroe County, Pennsylvania",
+    "AverageIncome": 27440,
+    "StateId": "42",
+    "CountyId": "089"
+  },
+  {
+    "CountyName": "Montgomery County, Pennsylvania",
+    "AverageIncome": 41349,
+    "StateId": "42",
+    "CountyId": "091"
+  },
+  {
+    "CountyName": "Northampton County, Pennsylvania",
+    "AverageIncome": 31666,
+    "StateId": "42",
+    "CountyId": "095"
+  },
+  {
+    "CountyName": "Northumberland County, Pennsylvania",
+    "AverageIncome": 26786,
+    "StateId": "42",
+    "CountyId": "097"
+  },
+  {
+    "CountyName": "Philadelphia County, Pennsylvania",
+    "AverageIncome": 25904,
+    "StateId": "42",
+    "CountyId": "101"
+  },
+  {
+    "CountyName": "Schuylkill County, Pennsylvania",
+    "AverageIncome": 26763,
+    "StateId": "42",
+    "CountyId": "107"
+  },
+  {
+    "CountyName": "Somerset County, Pennsylvania",
+    "AverageIncome": 25276,
+    "StateId": "42",
+    "CountyId": "111"
+  },
+  {
+    "CountyName": "Washington County, Pennsylvania",
+    "AverageIncome": 31569,
+    "StateId": "42",
+    "CountyId": "125"
+  },
+  {
+    "CountyName": "Westmoreland County, Pennsylvania",
+    "AverageIncome": 30839,
+    "StateId": "42",
+    "CountyId": "129"
+  },
+  {
+    "CountyName": "York County, Pennsylvania",
+    "AverageIncome": 31971,
+    "StateId": "42",
+    "CountyId": "133"
+  },
+  {
+    "CountyName": "Kent County, Rhode Island",
+    "AverageIncome": 38013,
+    "StateId": "44",
+    "CountyId": "003"
+  },
+  {
+    "CountyName": "Newport County, Rhode Island",
+    "AverageIncome": 41600,
+    "StateId": "44",
+    "CountyId": "005"
+  },
+  {
+    "CountyName": "Providence County, Rhode Island",
+    "AverageIncome": 29363,
+    "StateId": "44",
+    "CountyId": "007"
+  },
+  {
+    "CountyName": "Washington County, Rhode Island",
+    "AverageIncome": 35247,
+    "StateId": "44",
+    "CountyId": "009"
+  },
+  {
+    "CountyName": "Aiken County, South Carolina",
+    "AverageIncome": 26694,
+    "StateId": "45",
+    "CountyId": "003"
+  },
+  {
+    "CountyName": "Anderson County, South Carolina",
+    "AverageIncome": 26100,
+    "StateId": "45",
+    "CountyId": "007"
+  },
+  {
+    "CountyName": "Beaufort County, South Carolina",
+    "AverageIncome": 30371,
+    "StateId": "45",
+    "CountyId": "013"
+  },
+  {
+    "CountyName": "Berkeley County, South Carolina",
+    "AverageIncome": 30704,
+    "StateId": "45",
+    "CountyId": "015"
+  },
+  {
+    "CountyName": "Charleston County, South Carolina",
+    "AverageIncome": 33833,
+    "StateId": "45",
+    "CountyId": "019"
+  },
+  {
+    "CountyName": "Darlington County, South Carolina",
+    "AverageIncome": 20659,
+    "StateId": "45",
+    "CountyId": "031"
+  },
+  {
+    "CountyName": "Dorchester County, South Carolina",
+    "AverageIncome": 31104,
+    "StateId": "45",
+    "CountyId": "035"
+  },
+  {
+    "CountyName": "Florence County, South Carolina",
+    "AverageIncome": 26308,
+    "StateId": "45",
+    "CountyId": "041"
+  },
+  {
+    "CountyName": "Greenville County, South Carolina",
+    "AverageIncome": 30322,
+    "StateId": "45",
+    "CountyId": "045"
+  },
+  {
+    "CountyName": "Greenwood County, South Carolina",
+    "AverageIncome": 22411,
+    "StateId": "45",
+    "CountyId": "047"
+  },
+  {
+    "CountyName": "Horry County, South Carolina",
+    "AverageIncome": 25013,
+    "StateId": "45",
+    "CountyId": "051"
+  },
+  {
+    "CountyName": "Kershaw County, South Carolina",
+    "AverageIncome": 25494,
+    "StateId": "45",
+    "CountyId": "055"
+  },
+  {
+    "CountyName": "Lancaster County, South Carolina",
+    "AverageIncome": 27203,
+    "StateId": "45",
+    "CountyId": "057"
+  },
+  {
+    "CountyName": "Laurens County, South Carolina",
+    "AverageIncome": 22174,
+    "StateId": "45",
+    "CountyId": "059"
+  },
+  {
+    "CountyName": "Lexington County, South Carolina",
+    "AverageIncome": 31498,
+    "StateId": "45",
+    "CountyId": "063"
+  },
+  {
+    "CountyName": "Oconee County, South Carolina",
+    "AverageIncome": 25860,
+    "StateId": "45",
+    "CountyId": "073"
+  },
+  {
+    "CountyName": "Orangeburg County, South Carolina",
+    "AverageIncome": 19696,
+    "StateId": "45",
+    "CountyId": "075"
+  },
+  {
+    "CountyName": "Pickens County, South Carolina",
+    "AverageIncome": 22257,
+    "StateId": "45",
+    "CountyId": "077"
+  },
+  {
+    "CountyName": "Richland County, South Carolina",
+    "AverageIncome": 27203,
+    "StateId": "45",
+    "CountyId": "079"
+  },
+  {
+    "CountyName": "Spartanburg County, South Carolina",
+    "AverageIncome": 26961,
+    "StateId": "45",
+    "CountyId": "083"
+  },
+  {
+    "CountyName": "Sumter County, South Carolina",
+    "AverageIncome": 24608,
+    "StateId": "45",
+    "CountyId": "085"
+  },
+  {
+    "CountyName": "York County, South Carolina",
+    "AverageIncome": 31589,
+    "StateId": "45",
+    "CountyId": "091"
+  },
+  {
+    "CountyName": "Minnehaha County, South Dakota",
+    "AverageIncome": 32085,
+    "StateId": "46",
+    "CountyId": "099"
+  },
+  {
+    "CountyName": "Pennington County, South Dakota",
+    "AverageIncome": 29904,
+    "StateId": "46",
+    "CountyId": "103"
+  },
+  {
+    "CountyName": "Anderson County, Tennessee",
+    "AverageIncome": 25098,
+    "StateId": "47",
+    "CountyId": "001"
+  },
+  {
+    "CountyName": "Blount County, Tennessee",
+    "AverageIncome": 28103,
+    "StateId": "47",
+    "CountyId": "009"
+  },
+  {
+    "CountyName": "Bradley County, Tennessee",
+    "AverageIncome": 25675,
+    "StateId": "47",
+    "CountyId": "011"
+  },
+  {
+    "CountyName": "Davidson County, Tennessee",
+    "AverageIncome": 32801,
+    "StateId": "47",
+    "CountyId": "037"
+  },
+  {
+    "CountyName": "Greene County, Tennessee",
+    "AverageIncome": 24141,
+    "StateId": "47",
+    "CountyId": "059"
+  },
+  {
+    "CountyName": "Hamilton County, Tennessee",
+    "AverageIncome": 29957,
+    "StateId": "47",
+    "CountyId": "065"
+  },
+  {
+    "CountyName": "Knox County, Tennessee",
+    "AverageIncome": 30015,
+    "StateId": "47",
+    "CountyId": "093"
+  },
+  {
+    "CountyName": "Madison County, Tennessee",
+    "AverageIncome": 27345,
+    "StateId": "47",
+    "CountyId": "113"
+  },
+  {
+    "CountyName": "Maury County, Tennessee",
+    "AverageIncome": 29662,
+    "StateId": "47",
+    "CountyId": "119"
+  },
+  {
+    "CountyName": "Montgomery County, Tennessee",
+    "AverageIncome": 31184,
+    "StateId": "47",
+    "CountyId": "125"
+  },
+  {
+    "CountyName": "Putnam County, Tennessee",
+    "AverageIncome": 25847,
+    "StateId": "47",
+    "CountyId": "141"
+  },
+  {
+    "CountyName": "Robertson County, Tennessee",
+    "AverageIncome": 32483,
+    "StateId": "47",
+    "CountyId": "147"
+  },
+  {
+    "CountyName": "Rutherford County, Tennessee",
+    "AverageIncome": 30582,
+    "StateId": "47",
+    "CountyId": "149"
+  },
+  {
+    "CountyName": "Sevier County, Tennessee",
+    "AverageIncome": 23022,
+    "StateId": "47",
+    "CountyId": "155"
+  },
+  {
+    "CountyName": "Shelby County, Tennessee",
+    "AverageIncome": 27333,
+    "StateId": "47",
+    "CountyId": "157"
+  },
+  {
+    "CountyName": "Sullivan County, Tennessee",
+    "AverageIncome": 24064,
+    "StateId": "47",
+    "CountyId": "163"
+  },
+  {
+    "CountyName": "Sumner County, Tennessee",
+    "AverageIncome": 31907,
+    "StateId": "47",
+    "CountyId": "165"
+  },
+  {
+    "CountyName": "Washington County, Tennessee",
+    "AverageIncome": 24825,
+    "StateId": "47",
+    "CountyId": "179"
+  },
+  {
+    "CountyName": "Williamson County, Tennessee",
+    "AverageIncome": 45412,
+    "StateId": "47",
+    "CountyId": "187"
+  },
+  {
+    "CountyName": "Wilson County, Tennessee",
+    "AverageIncome": 34359,
+    "StateId": "47",
+    "CountyId": "189"
+  },
+  {
+    "CountyName": "Angelina County, Texas",
+    "AverageIncome": 23632,
+    "StateId": "48",
+    "CountyId": "005"
+  },
+  {
+    "CountyName": "Bastrop County, Texas",
+    "AverageIncome": 30582,
+    "StateId": "48",
+    "CountyId": "021"
+  },
+  {
+    "CountyName": "Bell County, Texas",
+    "AverageIncome": 29176,
+    "StateId": "48",
+    "CountyId": "027"
+  },
+  {
+    "CountyName": "Bexar County, Texas",
+    "AverageIncome": 27154,
+    "StateId": "48",
+    "CountyId": "029"
+  },
+  {
+    "CountyName": "Bowie County, Texas",
+    "AverageIncome": 28028,
+    "StateId": "48",
+    "CountyId": "037"
+  },
+  {
+    "CountyName": "Brazoria County, Texas",
+    "AverageIncome": 36876,
+    "StateId": "48",
+    "CountyId": "039"
+  },
+  {
+    "CountyName": "Brazos County, Texas",
+    "AverageIncome": 23983,
+    "StateId": "48",
+    "CountyId": "041"
+  },
+  {
+    "CountyName": "Cameron County, Texas",
+    "AverageIncome": 19260,
+    "StateId": "48",
+    "CountyId": "061"
+  },
+  {
+    "CountyName": "Collin County, Texas",
+    "AverageIncome": 44875,
+    "StateId": "48",
+    "CountyId": "085"
+  },
+  {
+    "CountyName": "Comal County, Texas",
+    "AverageIncome": 35807,
+    "StateId": "48",
+    "CountyId": "091"
+  },
+  {
+    "CountyName": "Coryell County, Texas",
+    "AverageIncome": 23121,
+    "StateId": "48",
+    "CountyId": "099"
+  },
+  {
+    "CountyName": "Dallas County, Texas",
+    "AverageIncome": 31643,
+    "StateId": "48",
+    "CountyId": "113"
+  },
+  {
+    "CountyName": "Denton County, Texas",
+    "AverageIncome": 40637,
+    "StateId": "48",
+    "CountyId": "121"
+  },
+  {
+    "CountyName": "Ector County, Texas",
+    "AverageIncome": 33438,
+    "StateId": "48",
+    "CountyId": "135"
+  },
+  {
+    "CountyName": "Ellis County, Texas",
+    "AverageIncome": 33449,
+    "StateId": "48",
+    "CountyId": "139"
+  },
+  {
+    "CountyName": "El Paso County, Texas",
+    "AverageIncome": 21675,
+    "StateId": "48",
+    "CountyId": "141"
+  },
+  {
+    "CountyName": "Fort Bend County, Texas",
+    "AverageIncome": 39556,
+    "StateId": "48",
+    "CountyId": "157"
+  },
+  {
+    "CountyName": "Galveston County, Texas",
+    "AverageIncome": 35492,
+    "StateId": "48",
+    "CountyId": "167"
+  },
+  {
+    "CountyName": "Grayson County, Texas",
+    "AverageIncome": 27959,
+    "StateId": "48",
+    "CountyId": "181"
+  },
+  {
+    "CountyName": "Gregg County, Texas",
+    "AverageIncome": 27070,
+    "StateId": "48",
+    "CountyId": "183"
+  },
+  {
+    "CountyName": "Guadalupe County, Texas",
+    "AverageIncome": 36076,
+    "StateId": "48",
+    "CountyId": "187"
+  },
+  {
+    "CountyName": "Harris County, Texas",
+    "AverageIncome": 30950,
+    "StateId": "48",
+    "CountyId": "201"
+  },
+  {
+    "CountyName": "Harrison County, Texas",
+    "AverageIncome": 24941,
+    "StateId": "48",
+    "CountyId": "203"
+  },
+  {
+    "CountyName": "Hays County, Texas",
+    "AverageIncome": 31294,
+    "StateId": "48",
+    "CountyId": "209"
+  },
+  {
+    "CountyName": "Henderson County, Texas",
+    "AverageIncome": 22741,
+    "StateId": "48",
+    "CountyId": "213"
+  },
+  {
+    "CountyName": "Hidalgo County, Texas",
+    "AverageIncome": 19173,
+    "StateId": "48",
+    "CountyId": "215"
+  },
+  {
+    "CountyName": "Hunt County, Texas",
+    "AverageIncome": 26910,
+    "StateId": "48",
+    "CountyId": "231"
+  },
+  {
+    "CountyName": "Jefferson County, Texas",
+    "AverageIncome": 26183,
+    "StateId": "48",
+    "CountyId": "245"
+  },
+  {
+    "CountyName": "Johnson County, Texas",
+    "AverageIncome": 32151,
+    "StateId": "48",
+    "CountyId": "251"
+  },
+  {
+    "CountyName": "Kaufman County, Texas",
+    "AverageIncome": 30531,
+    "StateId": "48",
+    "CountyId": "257"
+  },
+  {
+    "CountyName": "Liberty County, Texas",
+    "AverageIncome": 29014,
+    "StateId": "48",
+    "CountyId": "291"
+  },
+  {
+    "CountyName": "Lubbock County, Texas",
+    "AverageIncome": 25715,
+    "StateId": "48",
+    "CountyId": "303"
+  },
+  {
+    "CountyName": "McLennan County, Texas",
+    "AverageIncome": 24935,
+    "StateId": "48",
+    "CountyId": "309"
+  },
+  {
+    "CountyName": "Midland County, Texas",
+    "AverageIncome": 38890,
+    "StateId": "48",
+    "CountyId": "329"
+  },
+  {
+    "CountyName": "Montgomery County, Texas",
+    "AverageIncome": 36304,
+    "StateId": "48",
+    "CountyId": "339"
+  },
+  {
+    "CountyName": "Nacogdoches County, Texas",
+    "AverageIncome": 20776,
+    "StateId": "48",
+    "CountyId": "347"
+  },
+  {
+    "CountyName": "Nueces County, Texas",
+    "AverageIncome": 28594,
+    "StateId": "48",
+    "CountyId": "355"
+  },
+  {
+    "CountyName": "Orange County, Texas",
+    "AverageIncome": 29724,
+    "StateId": "48",
+    "CountyId": "361"
+  },
+  {
+    "CountyName": "Parker County, Texas",
+    "AverageIncome": 33812,
+    "StateId": "48",
+    "CountyId": "367"
+  },
+  {
+    "CountyName": "Potter County, Texas",
+    "AverageIncome": 25569,
+    "StateId": "48",
+    "CountyId": "375"
+  },
+  {
+    "CountyName": "Randall County, Texas",
+    "AverageIncome": 37015,
+    "StateId": "48",
+    "CountyId": "381"
+  },
+  {
+    "CountyName": "Rockwall County, Texas",
+    "AverageIncome": 42365,
+    "StateId": "48",
+    "CountyId": "397"
+  },
+  {
+    "CountyName": "San Patricio County, Texas",
+    "AverageIncome": 24441,
+    "StateId": "48",
+    "CountyId": "409"
+  },
+  {
+    "CountyName": "Smith County, Texas",
+    "AverageIncome": 27242,
+    "StateId": "48",
+    "CountyId": "423"
+  },
+  {
+    "CountyName": "Tarrant County, Texas",
+    "AverageIncome": 32314,
+    "StateId": "48",
+    "CountyId": "439"
+  },
+  {
+    "CountyName": "Taylor County, Texas",
+    "AverageIncome": 26618,
+    "StateId": "48",
+    "CountyId": "441"
+  },
+  {
+    "CountyName": "Tom Green County, Texas",
+    "AverageIncome": 26887,
+    "StateId": "48",
+    "CountyId": "451"
+  },
+  {
+    "CountyName": "Travis County, Texas",
+    "AverageIncome": 40346,
+    "StateId": "48",
+    "CountyId": "453"
+  },
+  {
+    "CountyName": "Victoria County, Texas",
+    "AverageIncome": 25768,
+    "StateId": "48",
+    "CountyId": "469"
+  },
+  {
+    "CountyName": "Walker County, Texas",
+    "AverageIncome": 26276,
+    "StateId": "48",
+    "CountyId": "471"
+  },
+  {
+    "CountyName": "Webb County, Texas",
+    "AverageIncome": 21503,
+    "StateId": "48",
+    "CountyId": "479"
+  },
+  {
+    "CountyName": "Wichita County, Texas",
+    "AverageIncome": 23895,
+    "StateId": "48",
+    "CountyId": "485"
+  },
+  {
+    "CountyName": "Williamson County, Texas",
+    "AverageIncome": 39214,
+    "StateId": "48",
+    "CountyId": "491"
+  },
+  {
+    "CountyName": "Wise County, Texas",
+    "AverageIncome": 29909,
+    "StateId": "48",
+    "CountyId": "497"
+  },
+  {
+    "CountyName": "Cache County, Utah",
+    "AverageIncome": 25060,
+    "StateId": "49",
+    "CountyId": "005"
+  },
+  {
+    "CountyName": "Davis County, Utah",
+    "AverageIncome": 34208,
+    "StateId": "49",
+    "CountyId": "011"
+  },
+  {
+    "CountyName": "Salt Lake County, Utah",
+    "AverageIncome": 34115,
+    "StateId": "49",
+    "CountyId": "035"
+  },
+  {
+    "CountyName": "Tooele County, Utah",
+    "AverageIncome": 32313,
+    "StateId": "49",
+    "CountyId": "045"
+  },
+  {
+    "CountyName": "Utah County, Utah",
+    "AverageIncome": 25912,
+    "StateId": "49",
+    "CountyId": "049"
+  },
+  {
+    "CountyName": "Washington County, Utah",
+    "AverageIncome": 27778,
+    "StateId": "49",
+    "CountyId": "053"
+  },
+  {
+    "CountyName": "Weber County, Utah",
+    "AverageIncome": 31485,
+    "StateId": "49",
+    "CountyId": "057"
+  },
+  {
+    "CountyName": "Chittenden County, Vermont",
+    "AverageIncome": 34141,
+    "StateId": "50",
+    "CountyId": "007"
+  },
+  {
+    "CountyName": "Albemarle County, Virginia",
+    "AverageIncome": 33623,
+    "StateId": "51",
+    "CountyId": "003"
+  },
+  {
+    "CountyName": "Arlington County, Virginia",
+    "AverageIncome": 69130,
+    "StateId": "51",
+    "CountyId": "013"
+  },
+  {
+    "CountyName": "Augusta County, Virginia",
+    "AverageIncome": 30965,
+    "StateId": "51",
+    "CountyId": "015"
+  },
+  {
+    "CountyName": "Bedford County, Virginia",
+    "AverageIncome": 30433,
+    "StateId": "51",
+    "CountyId": "019"
+  },
+  {
+    "CountyName": "Chesterfield County, Virginia",
+    "AverageIncome": 37432,
+    "StateId": "51",
+    "CountyId": "041"
+  },
+  {
+    "CountyName": "Fairfax County, Virginia",
+    "AverageIncome": 51923,
+    "StateId": "51",
+    "CountyId": "059"
+  },
+  {
+    "CountyName": "Fauquier County, Virginia",
+    "AverageIncome": 43889,
+    "StateId": "51",
+    "CountyId": "061"
+  },
+  {
+    "CountyName": "Frederick County, Virginia",
+    "AverageIncome": 38430,
+    "StateId": "51",
+    "CountyId": "069"
+  },
+  {
+    "CountyName": "Hanover County, Virginia",
+    "AverageIncome": 40703,
+    "StateId": "51",
+    "CountyId": "085"
+  },
+  {
+    "CountyName": "Henrico County, Virginia",
+    "AverageIncome": 36417,
+    "StateId": "51",
+    "CountyId": "087"
+  },
+  {
+    "CountyName": "James City County, Virginia",
+    "AverageIncome": 40001,
+    "StateId": "51",
+    "CountyId": "095"
+  },
+  {
+    "CountyName": "Loudoun County, Virginia",
+    "AverageIncome": 60724,
+    "StateId": "51",
+    "CountyId": "107"
+  },
+  {
+    "CountyName": "Montgomery County, Virginia",
+    "AverageIncome": 24488,
+    "StateId": "51",
+    "CountyId": "121"
+  },
+  {
+    "CountyName": "Prince William County, Virginia",
+    "AverageIncome": 42373,
+    "StateId": "51",
+    "CountyId": "153"
+  },
+  {
+    "CountyName": "Roanoke County, Virginia",
+    "AverageIncome": 35808,
+    "StateId": "51",
+    "CountyId": "161"
+  },
+  {
+    "CountyName": "Rockingham County, Virginia",
+    "AverageIncome": 30852,
+    "StateId": "51",
+    "CountyId": "165"
+  },
+  {
+    "CountyName": "Spotsylvania County, Virginia",
+    "AverageIncome": 39734,
+    "StateId": "51",
+    "CountyId": "177"
+  },
+  {
+    "CountyName": "Stafford County, Virginia",
+    "AverageIncome": 44363,
+    "StateId": "51",
+    "CountyId": "179"
+  },
+  {
+    "CountyName": "York County, Virginia",
+    "AverageIncome": 40918,
+    "StateId": "51",
+    "CountyId": "199"
+  },
+  {
+    "CountyName": "Alexandria city, Virginia",
+    "AverageIncome": 60606,
+    "StateId": "51",
+    "CountyId": "510"
+  },
+  {
+    "CountyName": "Chesapeake city, Virginia",
+    "AverageIncome": 37329,
+    "StateId": "51",
+    "CountyId": "550"
+  },
+  {
+    "CountyName": "Hampton city, Virginia",
+    "AverageIncome": 31740,
+    "StateId": "51",
+    "CountyId": "650"
+  },
+  {
+    "CountyName": "Lynchburg city, Virginia",
+    "AverageIncome": 20538,
+    "StateId": "51",
+    "CountyId": "680"
+  },
+  {
+    "CountyName": "Newport News city, Virginia",
+    "AverageIncome": 29926,
+    "StateId": "51",
+    "CountyId": "700"
+  },
+  {
+    "CountyName": "Norfolk city, Virginia",
+    "AverageIncome": 25725,
+    "StateId": "51",
+    "CountyId": "710"
+  },
+  {
+    "CountyName": "Portsmouth city, Virginia",
+    "AverageIncome": 26181,
+    "StateId": "51",
+    "CountyId": "740"
+  },
+  {
+    "CountyName": "Richmond city, Virginia",
+    "AverageIncome": 26829,
+    "StateId": "51",
+    "CountyId": "760"
+  },
+  {
+    "CountyName": "Roanoke city, Virginia",
+    "AverageIncome": 23953,
+    "StateId": "51",
+    "CountyId": "770"
+  },
+  {
+    "CountyName": "Suffolk city, Virginia",
+    "AverageIncome": 38100,
+    "StateId": "51",
+    "CountyId": "800"
+  },
+  {
+    "CountyName": "Virginia Beach city, Virginia",
+    "AverageIncome": 38147,
+    "StateId": "51",
+    "CountyId": "810"
+  },
+  {
+    "CountyName": "Benton County, Washington",
+    "AverageIncome": 31983,
+    "StateId": "53",
+    "CountyId": "005"
+  },
+  {
+    "CountyName": "Chelan County, Washington",
+    "AverageIncome": 29373,
+    "StateId": "53",
+    "CountyId": "007"
+  },
+  {
+    "CountyName": "Clallam County, Washington",
+    "AverageIncome": 29650,
+    "StateId": "53",
+    "CountyId": "009"
+  },
+  {
+    "CountyName": "Clark County, Washington",
+    "AverageIncome": 36100,
+    "StateId": "53",
+    "CountyId": "011"
+  },
+  {
+    "CountyName": "Cowlitz County, Washington",
+    "AverageIncome": 28381,
+    "StateId": "53",
+    "CountyId": "015"
+  },
+  {
+    "CountyName": "Franklin County, Washington",
+    "AverageIncome": 29997,
+    "StateId": "53",
+    "CountyId": "021"
+  },
+  {
+    "CountyName": "Grant County, Washington",
+    "AverageIncome": 26601,
+    "StateId": "53",
+    "CountyId": "025"
+  },
+  {
+    "CountyName": "Grays Harbor County, Washington",
+    "AverageIncome": 24330,
+    "StateId": "53",
+    "CountyId": "027"
+  },
+  {
+    "CountyName": "Island County, Washington",
+    "AverageIncome": 31242,
+    "StateId": "53",
+    "CountyId": "029"
+  },
+  {
+    "CountyName": "King County, Washington",
+    "AverageIncome": 46003,
+    "StateId": "53",
+    "CountyId": "033"
+  },
+  {
+    "CountyName": "Kitsap County, Washington",
+    "AverageIncome": 36363,
+    "StateId": "53",
+    "CountyId": "035"
+  },
+  {
+    "CountyName": "Lewis County, Washington",
+    "AverageIncome": 28205,
+    "StateId": "53",
+    "CountyId": "041"
+  },
+  {
+    "CountyName": "Mason County, Washington",
+    "AverageIncome": 27404,
+    "StateId": "53",
+    "CountyId": "045"
+  },
+  {
+    "CountyName": "Pierce County, Washington",
+    "AverageIncome": 36793,
+    "StateId": "53",
+    "CountyId": "053"
+  },
+  {
+    "CountyName": "Skagit County, Washington",
+    "AverageIncome": 34324,
+    "StateId": "53",
+    "CountyId": "057"
+  },
+  {
+    "CountyName": "Snohomish County, Washington",
+    "AverageIncome": 40130,
+    "StateId": "53",
+    "CountyId": "061"
+  },
+  {
+    "CountyName": "Spokane County, Washington",
+    "AverageIncome": 29780,
+    "StateId": "53",
+    "CountyId": "063"
+  },
+  {
+    "CountyName": "Thurston County, Washington",
+    "AverageIncome": 37226,
+    "StateId": "53",
+    "CountyId": "067"
+  },
+  {
+    "CountyName": "Whatcom County, Washington",
+    "AverageIncome": 30513,
+    "StateId": "53",
+    "CountyId": "073"
+  },
+  {
+    "CountyName": "Yakima County, Washington",
+    "AverageIncome": 25401,
+    "StateId": "53",
+    "CountyId": "077"
+  },
+  {
+    "CountyName": "Berkeley County, West Virginia",
+    "AverageIncome": 31691,
+    "StateId": "54",
+    "CountyId": "003"
+  },
+  {
+    "CountyName": "Cabell County, West Virginia",
+    "AverageIncome": 21914,
+    "StateId": "54",
+    "CountyId": "011"
+  },
+  {
+    "CountyName": "Kanawha County, West Virginia",
+    "AverageIncome": 24916,
+    "StateId": "54",
+    "CountyId": "039"
+  },
+  {
+    "CountyName": "Monongalia County, West Virginia",
+    "AverageIncome": 25012,
+    "StateId": "54",
+    "CountyId": "061"
+  },
+  {
+    "CountyName": "Raleigh County, West Virginia",
+    "AverageIncome": 21362,
+    "StateId": "54",
+    "CountyId": "081"
+  },
+  {
+    "CountyName": "Wood County, West Virginia",
+    "AverageIncome": 25412,
+    "StateId": "54",
+    "CountyId": "107"
+  },
+  {
+    "CountyName": "Brown County, Wisconsin",
+    "AverageIncome": 32006,
+    "StateId": "55",
+    "CountyId": "009"
+  },
+  {
+    "CountyName": "Dane County, Wisconsin",
+    "AverageIncome": 39163,
+    "StateId": "55",
+    "CountyId": "025"
+  },
+  {
+    "CountyName": "Dodge County, Wisconsin",
+    "AverageIncome": 32886,
+    "StateId": "55",
+    "CountyId": "027"
+  },
+  {
+    "CountyName": "Eau Claire County, Wisconsin",
+    "AverageIncome": 29054,
+    "StateId": "55",
+    "CountyId": "035"
+  },
+  {
+    "CountyName": "Fond du Lac County, Wisconsin",
+    "AverageIncome": 30211,
+    "StateId": "55",
+    "CountyId": "039"
+  },
+  {
+    "CountyName": "Jefferson County, Wisconsin",
+    "AverageIncome": 31905,
+    "StateId": "55",
+    "CountyId": "055"
+  },
+  {
+    "CountyName": "Kenosha County, Wisconsin",
+    "AverageIncome": 31561,
+    "StateId": "55",
+    "CountyId": "059"
+  },
+  {
+    "CountyName": "La Crosse County, Wisconsin",
+    "AverageIncome": 30493,
+    "StateId": "55",
+    "CountyId": "063"
+  },
+  {
+    "CountyName": "Manitowoc County, Wisconsin",
+    "AverageIncome": 30578,
+    "StateId": "55",
+    "CountyId": "071"
+  },
+  {
+    "CountyName": "Marathon County, Wisconsin",
+    "AverageIncome": 32444,
+    "StateId": "55",
+    "CountyId": "073"
+  },
+  {
+    "CountyName": "Milwaukee County, Wisconsin",
+    "AverageIncome": 29480,
+    "StateId": "55",
+    "CountyId": "079"
+  },
+  {
+    "CountyName": "Outagamie County, Wisconsin",
+    "AverageIncome": 33970,
+    "StateId": "55",
+    "CountyId": "087"
+  },
+  {
+    "CountyName": "Ozaukee County, Wisconsin",
+    "AverageIncome": 41661,
+    "StateId": "55",
+    "CountyId": "089"
+  },
+  {
+    "CountyName": "Portage County, Wisconsin",
+    "AverageIncome": 30276,
+    "StateId": "55",
+    "CountyId": "097"
+  },
+  {
+    "CountyName": "Racine County, Wisconsin",
+    "AverageIncome": 30844,
+    "StateId": "55",
+    "CountyId": "101"
+  },
+  {
+    "CountyName": "Rock County, Wisconsin",
+    "AverageIncome": 30003,
+    "StateId": "55",
+    "CountyId": "105"
+  },
+  {
+    "CountyName": "St. Croix County, Wisconsin",
+    "AverageIncome": 40162,
+    "StateId": "55",
+    "CountyId": "109"
+  },
+  {
+    "CountyName": "Sheboygan County, Wisconsin",
+    "AverageIncome": 35143,
+    "StateId": "55",
+    "CountyId": "117"
+  },
+  {
+    "CountyName": "Walworth County, Wisconsin",
+    "AverageIncome": 30555,
+    "StateId": "55",
+    "CountyId": "127"
+  },
+  {
+    "CountyName": "Washington County, Wisconsin",
+    "AverageIncome": 40016,
+    "StateId": "55",
+    "CountyId": "131"
+  },
+  {
+    "CountyName": "Waukesha County, Wisconsin",
+    "AverageIncome": 40275,
+    "StateId": "55",
+    "CountyId": "133"
+  },
+  {
+    "CountyName": "Winnebago County, Wisconsin",
+    "AverageIncome": 30714,
+    "StateId": "55",
+    "CountyId": "139"
+  },
+  {
+    "CountyName": "Wood County, Wisconsin",
+    "AverageIncome": 31739,
+    "StateId": "55",
+    "CountyId": "141"
+  },
+  {
+    "CountyName": "Laramie County, Wyoming",
+    "AverageIncome": 32603,
+    "StateId": "56",
+    "CountyId": "021"
+  },
+  {
+    "CountyName": "Natrona County, Wyoming",
+    "AverageIncome": 35061,
+    "StateId": "56",
+    "CountyId": "025"
+  },
+  {
+    "CountyName": "Toa Baja Municipio, Puerto Rico",
+    "AverageIncome": null,
+    "StateId": "72",
+    "CountyId": "137"
+  },
+  {
+    "CountyName": "Caguas Municipio, Puerto Rico",
+    "AverageIncome": null,
+    "StateId": "72",
+    "CountyId": "025"
+  },
+  {
+    "CountyName": "Bayamón Municipio, Puerto Rico",
+    "AverageIncome": null,
+    "StateId": "72",
+    "CountyId": "021"
+  },
+  {
+    "CountyName": "Trujillo Alto Municipio, Puerto Rico",
+    "AverageIncome": null,
+    "StateId": "72",
+    "CountyId": "139"
+  },
+  {
+    "CountyName": "Harrison County, West Virginia",
+    "AverageIncome": null,
+    "StateId": "54",
+    "CountyId": "033"
+  },
+  {
+    "CountyName": "San Juan Municipio, Puerto Rico",
+    "AverageIncome": null,
+    "StateId": "72",
+    "CountyId": "127"
+  },
+  {
+    "CountyName": "Mayagüez Municipio, Puerto Rico",
+    "AverageIncome": null,
+    "StateId": "72",
+    "CountyId": "097"
+  },
+  {
+    "CountyName": "Ponce Municipio, Puerto Rico",
+    "AverageIncome": null,
+    "StateId": "72",
+    "CountyId": "113"
+  },
+  {
+    "CountyName": "Toa Alta Municipio, Puerto Rico",
+    "AverageIncome": null,
+    "StateId": "72",
+    "CountyId": "135"
+  },
+  {
+    "CountyName": "Carolina Municipio, Puerto Rico",
+    "AverageIncome": null,
+    "StateId": "72",
+    "CountyId": "031"
+  },
+  {
+    "CountyName": "Guaynabo Municipio, Puerto Rico",
+    "AverageIncome": null,
+    "StateId": "72",
+    "CountyId": "061"
+  },
+  {
+    "CountyName": "Arecibo Municipio, Puerto Rico",
+    "AverageIncome": null,
+    "StateId": "72",
+    "CountyId": "013"
+  }
+]

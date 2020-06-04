@@ -1,9 +1,9 @@
 # JavaProject
-Time Keep Co. Location Score Calculator
+## Time Keep Co. Location Score Calculator
 
 NITW Project Data Engine Read.Me
 
-1. Summary of the Project
+## 1. Summary of the Project
 
 The project involves building and expanding upon the data engine to create an 
 app or tool. The goal is using open, public data sources to give a rank or 
@@ -11,13 +11,13 @@ score from 1...100 for a site for a manufacturing company. The data engine
 gives the basis or foundation on which to write the the software to create 
 the app or tool.
 
-2. The Data Engine
+## 2. The Data Engine
 
 The data engine reads the external data files in Comma Separated Value (CSV), 
 Excel, Javascript Object Notation, (JSON), and Extensible Markup Language 
 (XML) into the internal data structures.
 
-A. internals
+### A. internals
 
 The internals are the data structures a list of map/records imported from the 
 external data files. The data structures are the same structure and 
@@ -31,7 +31,7 @@ The data structures are from the standard Java collections:
 1. List - a list of records accessible by index
 2. Map  - a record of data accessible by key or header
 
-B. operation
+### B. operation
 
 The operation of the data engine is to create an instance, load or import the 
 data into the data structures. Then the internal data structures can be 
@@ -55,13 +55,13 @@ accessed or queried. A Java source code fragment to illustrate:
   Once the data set has been accessed, it can be queried and manipulated with 
   the List or Map methods of the data structure.
 
-3. Using the Source Code
+## 3. Using the Source Code
 
 The data engine source code in Java is available as "DataEngine.java" a class 
 that defines the data engine, and contains the methods to access and query 
 data, and the data structures that contain the datum.
 
-   A. Libraries
+###   A. Libraries
 
       1. Individual Library Files
 
@@ -114,7 +114,7 @@ DataEngine.class are packed into one large monolithic library JAR (*.jar)
 "DataEngine.jar" file. This library file is 27.9 Mb in size, and can be used 
 either to work with the DataEngine.java or use the data engine itself. 
 
-   B. creating a project in Eclipse/IntelliJ/Netbeans
+###   B. creating a project in Eclipse/IntelliJ/Netbeans
 
 The Java source code is provided, but without any specific Integrated 
 Development Environment (IDE) to use.
@@ -138,7 +138,7 @@ Creating, building, and running a project is straight forward:
 
 6. Include the source code in the project, and then compile, build, and run.
 
-   C. Running the Examples 
+### C. Running the Examples 
 
 An example Java class "ExampleDataEngineQuery.java" containing 25-examples of 
 methods that access and query the data to illustrate using the data engine.
